@@ -27,6 +27,8 @@ import os
 import re
 import ssl
 import sys
+import time
+import urllib.error
 import urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -62,12 +64,29 @@ def ssl_context():
     return ctx
 
 
-def fetch(url):
+RETRY_WAIT_SECONDS = 60
+
+
+def fetch_once(url):
     req = urllib.request.Request(url, headers={"User-Agent": "ak-voting-site-monitor/1.0"})
     with urllib.request.urlopen(req, context=ssl_context(), timeout=60) as resp:
         if resp.status != 200:
             raise RuntimeError(f"{url} returned HTTP {resp.status}")
         return resp.read()
+
+
+def fetch(url):
+    """Fetch once; on a network or server error, wait a minute and try one more time.
+
+    One-off blips (like a brief 405 from DOE's server on Oct 27) then don't count as a
+    failed check. A second failure is reported as usual.
+    """
+    try:
+        return fetch_once(url)
+    except (urllib.error.URLError, RuntimeError, TimeoutError, ConnectionError) as first:
+        print(f"Fetch failed ({first}); retrying in {RETRY_WAIT_SECONDS}s: {url}", file=sys.stderr)
+        time.sleep(RETRY_WAIT_SECONDS)
+        return fetch_once(url)
 
 
 def norm(text):
