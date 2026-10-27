@@ -271,7 +271,7 @@
  "Birch Creek | Birch Creek Tribal Council": {
   "address": "Tribal Office",
   "city": "Birch Creek",
-  "doe_updated": "September 16, 2026 at 9:58 pm",
+  "doe_updated": "October 27, 2026 at 11:31 am",
   "early_vote_location": false,
   "elections": [
    "26GENR"
@@ -639,10 +639,10 @@
   "hours": "Monday - Friday October 19 - November 3 10:00am - 12:00pm; 1:00pm - 4:00pm",
   "name": "False Pass Tribal Office"
  },
- "Fort Yukom | City of Fort Yukon": {
+ "Fort Yukon | City of Fort Yukon": {
   "address": "",
-  "city": "Fort Yukom",
-  "doe_updated": "October 26, 2026 at 1:30 pm",
+  "city": "Fort Yukon",
+  "doe_updated": "October 27, 2026 at 11:27 am",
   "early_vote_location": false,
   "elections": [
    "26GENR"
@@ -761,6 +761,17 @@
   ],
   "hours": "Tuesday, Election Day November 3 7:00am - 8:00pm",
   "name": "Hollis School"
+ },
+ "Holy Cross | City of Holy Cross": {
+  "address": "Holy Cross City Office",
+  "city": "Holy Cross",
+  "doe_updated": "October 27, 2026 at 11:36 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Tuesdays -Friday October 27 - October 30 10:00am - 12:00pm Monday November 2 10:00am - 12:00pm",
+  "name": "City of Holy Cross"
  },
  "Homer | Homer City Clerk's Office": {
   "address": "491 E Pioneer Avenue",
