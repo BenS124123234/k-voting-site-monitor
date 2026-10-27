@@ -1,0 +1,3218 @@
+{
+ "01-600 Ketchikan No. 1": {
+  "address": "601 Schoenbar Rd",
+  "city": "Ketchikan",
+  "lat": 55.34811,
+  "lon": -131.63989,
+  "name": "Gateway Recreation Center",
+  "precinct": "01-600 Ketchikan No. 1"
+ },
+ "01-610 Ketchikan No. 2": {
+  "address": "2417 Tongass Ave",
+  "city": "Ketchikan",
+  "lat": 55.3488,
+  "lon": -131.67407,
+  "name": "Plaza Mall",
+  "precinct": "01-610 Ketchikan No. 2"
+ },
+ "01-620 Ketchikan No. 3": {
+  "address": "3501 Tongass Ave",
+  "city": "Ketchikan",
+  "lat": 55.35469,
+  "lon": -131.69349,
+  "name": "Ketchikan Ferry Terminal",
+  "precinct": "01-620 Ketchikan No. 3"
+ },
+ "01-640 North Tongass No. 1": {
+  "address": "7550 N Tongass Hwy",
+  "city": "Ketchikan",
+  "lat": 55.40852,
+  "lon": -131.73138,
+  "name": "North Tongass Fire Station No. 6",
+  "precinct": "01-640 North Tongass No. 1"
+ },
+ "01-650 North Tongass No. 2": {
+  "address": "13110 N Tongass Hwy",
+  "city": "Ketchikan",
+  "lat": 55.45573,
+  "lon": -131.81843,
+  "name": "North Tongass Fire Station No. 8",
+  "precinct": "01-650 North Tongass No. 2"
+ },
+ "01-660 Saxman": {
+  "address": "2841 S Tongass Hwy",
+  "city": "Saxman",
+  "lat": 55.31716,
+  "lon": -131.5943,
+  "name": "Saxman Community Hall",
+  "precinct": "01-660 Saxman"
+ },
+ "01-670 South Tongass": {
+  "address": "376 Old Homestead Rd",
+  "city": "Ketchikan",
+  "lat": 55.31018,
+  "lon": -131.56858,
+  "name": "South Tongass Alliance Church",
+  "precinct": "01-670 South Tongass"
+ },
+ "01-675 Coffman Cove": {
+  "address": "106 Denali Alley",
+  "city": "Coffman Cove",
+  "lat": 56.01283,
+  "lon": -132.82786,
+  "name": "City Library",
+  "precinct": "01-675 Coffman Cove"
+ },
+ "01-680 Metlakatla": {
+  "address": "900 Milton St",
+  "city": "Metlakatla",
+  "lat": 55.12497,
+  "lon": -131.57169,
+  "name": "Metlakatla Town Hall",
+  "precinct": "01-680 Metlakatla"
+ },
+ "01-690 Wrangell": {
+  "address": "296 Campbell Dr",
+  "city": "Wrangell",
+  "lat": 56.47001,
+  "lon": -132.38343,
+  "name": "James & Elsie Nolan Civic Center",
+  "precinct": "01-690 Wrangell"
+ },
+ "02-700 Angoon": {
+  "address": "700 Aan Deina Aat St",
+  "city": "Angoon",
+  "lat": 57.49939,
+  "lon": -134.5813,
+  "name": "Angoon City Office Court Room",
+  "precinct": "02-700 Angoon"
+ },
+ "02-705 Craig": {
+  "address": "500 3rd St",
+  "city": "Craig",
+  "lat": 55.47611,
+  "lon": -133.15144,
+  "name": "Craig City Hall",
+  "precinct": "02-705 Craig"
+ },
+ "02-720 Hoonah": {
+  "address": "300 Front Street",
+  "city": "Hoonah",
+  "lat": 58.10947,
+  "lon": -135.44574,
+  "name": "Hoonah City Hall",
+  "precinct": "02-720 Hoonah"
+ },
+ "02-725 Hydaburg": {
+  "address": "",
+  "city": "Hydaburg",
+  "lat": 55.20568,
+  "lon": -132.82313,
+  "name": "Recreation Building (Blue Building)",
+  "precinct": "02-725 Hydaburg"
+ },
+ "02-730 Kake": {
+  "address": "264 Front St",
+  "city": "Kake",
+  "lat": 56.97446,
+  "lon": -133.94475,
+  "name": "Kake City Hall",
+  "precinct": "02-730 Kake"
+ },
+ "02-735 Kasaan": {
+  "address": "Peele & Jones St",
+  "city": "Kasaan",
+  "lat": 55.54138,
+  "lon": -132.40234,
+  "name": "David S Peele Community Hall",
+  "precinct": "02-735 Kasaan"
+ },
+ "02-740 Klawock": {
+  "address": "550 Summit St",
+  "city": "Klawock",
+  "lat": 55.5549,
+  "lon": -133.09595,
+  "name": "Klawock City Hall",
+  "precinct": "02-740 Klawock"
+ },
+ "02-750 Pelican/Elfin Cove": {
+  "address": "Salmon Way",
+  "city": "Pelican",
+  "lat": 57.9605,
+  "lon": -136.22936,
+  "name": "Pelican City Hall",
+  "precinct": "02-750 Pelican/Elfin Cove"
+ },
+ "02-755 Petersburg/Kupreanof": {
+  "address": "105 Charles W St",
+  "city": "Petersburg",
+  "lat": 56.81473,
+  "lon": -132.95623,
+  "name": "Community Center",
+  "precinct": "02-755 Petersburg/Kupreanof"
+ },
+ "02-760 Port Alexander": {
+  "address": "",
+  "city": "Port Alexander",
+  "lat": 56.25049,
+  "lon": -134.64648,
+  "name": "Bear Hall Community Center",
+  "precinct": "02-760 Port Alexander"
+ },
+ "02-765 Sitka No. 1": {
+  "address": "330 Harbor Dr",
+  "city": "Sitka",
+  "lat": 57.05049,
+  "lon": -135.33268,
+  "name": "Harrigan Centennial Hall",
+  "precinct": "02-765 Sitka No. 1"
+ },
+ "02-770 Sitka No. 2": {
+  "address": "330 Harbor Dr",
+  "city": "Sitka",
+  "lat": 57.05039,
+  "lon": -135.33278,
+  "name": "Harrigan Centennial Hall",
+  "precinct": "02-770 Sitka No. 2"
+ },
+ "02-775 Tenakee Springs": {
+  "address": "Tenakee Ave",
+  "city": "Tenakee Springs",
+  "lat": 57.78004,
+  "lon": -135.21798,
+  "name": "Tenakee Community Center",
+  "precinct": "02-775 Tenakee Springs"
+ },
+ "02-780 Thorne Bay": {
+  "address": "120 Freeman Dr",
+  "city": "Thorne Bay",
+  "lat": 55.68627,
+  "lon": -132.52727,
+  "name": "Thorne Bay City Hall",
+  "precinct": "02-780 Thorne Bay"
+ },
+ "02-785 Yakutat": {
+  "address": "609 Forest Hwy 10",
+  "city": "Yakutat",
+  "lat": 59.52987,
+  "lon": -139.71354,
+  "name": "Yakutat Public Safety Building",
+  "precinct": "02-785 Yakutat"
+ },
+ "03-300 Auke Bay": {
+  "address": "12300 Mendenhall Loop Rd",
+  "city": "Juneau",
+  "lat": 58.39094,
+  "lon": -134.64661,
+  "name": "UAS Recreation Center",
+  "precinct": "03-300 Auke Bay"
+ },
+ "03-305 Lynn Canal": {
+  "address": "13485 Glacier Hwy",
+  "city": "Juneau",
+  "lat": 58.38232,
+  "lon": -134.68711,
+  "name": "Auke Bay Ferry Terminal",
+  "precinct": "03-305 Lynn Canal"
+ },
+ "03-310 Melvin Park": {
+  "address": "3921 Mendenhall Loop Rd",
+  "city": "Juneau",
+  "lat": 58.39046,
+  "lon": -134.56912,
+  "name": "Glacier Valley Baptist Church",
+  "precinct": "03-310 Melvin Park"
+ },
+ "03-315 Mendenhall Glacier": {
+  "address": "4207 Mendenhall Loop Rd",
+  "city": "Juneau",
+  "lat": 58.39521,
+  "lon": -134.56291,
+  "name": "St. Brendan's Episcopal Church",
+  "precinct": "03-315 Mendenhall Glacier"
+ },
+ "03-320 Thunder Mountain": {
+  "address": "3025 Dimond Park Loop Rd",
+  "city": "Juneau",
+  "lat": 58.37791,
+  "lon": -134.58883,
+  "name": "Mendenhall Valley Public Library",
+  "precinct": "03-320 Thunder Mountain"
+ },
+ "03-325 Gustavus": {
+  "address": "1295 Gustavus Rd",
+  "city": "Gustavus",
+  "lat": 58.41269,
+  "lon": -135.7278,
+  "name": "Gustavus Community Center",
+  "precinct": "03-325 Gustavus"
+ },
+ "03-330 Haines No. 1": {
+  "address": "111 First Ave S",
+  "city": "Haines",
+  "lat": 59.23373,
+  "lon": -135.44417,
+  "name": "Alaska Native Brotherhood Hall",
+  "precinct": "03-330 Haines No. 1"
+ },
+ "03-335 Haines No. 2": {
+  "address": "Mosquito Lake Rd",
+  "city": "Haines",
+  "lat": 59.44227,
+  "lon": -136.03072,
+  "name": "Klehini Valley Fire Department",
+  "precinct": "03-335 Haines No. 2"
+ },
+ "03-340 Klukwan": {
+  "address": "",
+  "city": "Klukwan",
+  "lat": 59.39856,
+  "lon": -135.89737,
+  "name": "Klukwan Ans Hall",
+  "precinct": "03-340 Klukwan"
+ },
+ "03-345 Skagway": {
+  "address": "700 Spring St",
+  "city": "Skagway",
+  "lat": 59.45584,
+  "lon": -135.31189,
+  "name": "Skagway Borough Office",
+  "precinct": "03-345 Skagway"
+ },
+ "04-100 Douglas": {
+  "address": "1016 3rd St",
+  "city": "Douglas",
+  "lat": 58.27685,
+  "lon": -134.39526,
+  "name": "Douglas Public Library",
+  "precinct": "04-100 Douglas"
+ },
+ "04-105 Juneau Airport Area": {
+  "address": "80001 Glacier Hwy",
+  "city": "Juneau",
+  "lat": 58.35931,
+  "lon": -134.55585,
+  "name": "Juneau Christian Center",
+  "precinct": "04-105 Juneau Airport Area"
+ },
+ "04-110 Juneau No. 1": {
+  "address": "395 Whittier St",
+  "city": "Juneau",
+  "lat": 58.30078,
+  "lon": -134.41501,
+  "name": "State of Alaska Library Archives Museum",
+  "precinct": "04-110 Juneau No. 1"
+ },
+ "04-115 Juneau No. 2": {
+  "address": "333 Willoughby Ave",
+  "city": "Juneau",
+  "lat": 58.30068,
+  "lon": -134.41172,
+  "name": "State Office Building",
+  "precinct": "04-115 Juneau No. 2"
+ },
+ "04-120 Juneau No. 3": {
+  "address": "3235 Hospital Dr",
+  "city": "Juneau",
+  "lat": 58.33083,
+  "lon": -134.47083,
+  "name": "Juneau Tlingit & Haida Community Council",
+  "precinct": "04-120 Juneau No. 3"
+ },
+ "04-125 Lemon Creek": {
+  "address": "5601 Tonsgard Ct",
+  "city": "Juneau",
+  "lat": 58.35502,
+  "lon": -134.49646,
+  "name": "Alaska Electrical Light & Power",
+  "precinct": "04-125 Lemon Creek"
+ },
+ "04-130 Glacier Valley Area": {
+  "address": "9107 Mendenhall Mall Rd Ste 311",
+  "city": "Juneau",
+  "lat": 58.37144,
+  "lon": -134.58971,
+  "name": "Mendenhall Mall",
+  "precinct": "04-130 Glacier Valley Area"
+ },
+ "04-135 North Douglas": {
+  "address": "820 Glacier Ave",
+  "city": "Juneau",
+  "lat": 58.30143,
+  "lon": -134.42143,
+  "name": "Juneau Fire Station",
+  "precinct": "04-135 North Douglas"
+ },
+ "05-800 Chiniak": {
+  "address": "43318 Spruce Way",
+  "city": "Chiniak",
+  "lat": 57.61224,
+  "lon": -152.23359,
+  "name": "Chiniak Public Library",
+  "precinct": "05-800 Chiniak"
+ },
+ "05-810 Flats": {
+  "address": "538 Sargent Creek Rd",
+  "city": "Kodiak",
+  "lat": 57.71588,
+  "lon": -152.57986,
+  "name": "Womens Bay Fire Hall",
+  "precinct": "05-810 Flats"
+ },
+ "05-815 Kodiak Island South": {
+  "address": "",
+  "city": "Larsen Bay",
+  "lat": 57.53799,
+  "lon": -153.97913,
+  "name": "Larsen Bay Senior Center",
+  "precinct": "05-815 Kodiak Island South"
+ },
+ "05-820 Kodiak No. 1": {
+  "address": "403 Marine Way West",
+  "city": "Kodiak",
+  "lat": 57.78771,
+  "lon": -152.40749,
+  "name": "Habor Master Building",
+  "precinct": "05-820 Kodiak No. 1"
+ },
+ "05-825 Kodiak No. 2": {
+  "address": "410 Cedar St",
+  "city": "Kodiak",
+  "lat": 57.79262,
+  "lon": -152.40505,
+  "name": "Community Teen Center",
+  "precinct": "05-825 Kodiak No. 2"
+ },
+ "05-830 Mission Road": {
+  "address": "4606 E Rezanof Dr",
+  "city": "Kodiak",
+  "lat": 57.82535,
+  "lon": -152.35594,
+  "name": "Bayside Fire Hall",
+  "precinct": "05-830 Mission Road"
+ },
+ "05-835 Old Harbor": {
+  "address": "12 Tsunami Dr",
+  "city": "Old Harbor",
+  "lat": 57.21719,
+  "lon": -153.2858,
+  "name": "Nuniaq Center",
+  "precinct": "05-835 Old Harbor"
+ },
+ "05-840 Ouzinkie": {
+  "address": "3rd St",
+  "city": "Ouzinkie",
+  "lat": 57.92279,
+  "lon": -152.49508,
+  "name": "Ouzinkie Tribal Offices",
+  "precinct": "05-840 Ouzinkie"
+ },
+ "05-845 Port Lions": {
+  "address": "207 Spruce Dr",
+  "city": "Port Lions",
+  "lat": 57.86638,
+  "lon": -152.88375,
+  "name": "Port Lions Community Building",
+  "precinct": "05-845 Port Lions"
+ },
+ "05-860 Cordova": {
+  "address": "601 First St",
+  "city": "Cordova",
+  "lat": 60.54129,
+  "lon": -145.75953,
+  "name": "The Cordova Center",
+  "precinct": "05-860 Cordova"
+ },
+ "05-865 Seward/Lowell Point": {
+  "address": "239 6th Ave",
+  "city": "Seward",
+  "lat": 60.10239,
+  "lon": -149.43734,
+  "name": "City of Seward Library and Museum",
+  "precinct": "05-865 Seward/Lowell Point"
+ },
+ "05-870 Tatitlek": {
+  "address": "411 Old Village Rd",
+  "city": "Tatitlek",
+  "lat": 60.86615,
+  "lon": -146.67783,
+  "name": "Tatitlek Community Center",
+  "precinct": "05-870 Tatitlek"
+ },
+ "06-200 Anchor Point": {
+  "address": "Mi .25 Milo Fritz Ave",
+  "city": "Anchor Point",
+  "lat": 59.7796,
+  "lon": -151.84236,
+  "name": "Anchor Point Senior Center",
+  "precinct": "06-200 Anchor Point"
+ },
+ "06-210 Diamond Ridge": {
+  "address": "201 Sterling Hwy",
+  "city": "Homer",
+  "lat": 59.64135,
+  "lon": -151.54729,
+  "name": "Homer Chamber of Commerce",
+  "precinct": "06-210 Diamond Ridge"
+ },
+ "06-220 Fox River": {
+  "address": "53048 Ashwood Ave",
+  "city": "Homer",
+  "lat": 59.74351,
+  "lon": -151.26102,
+  "name": "Kachemak Emergency Services",
+  "precinct": "06-220 Fox River"
+ },
+ "06-230 Homer No. 1": {
+  "address": "533 E Pioneer Ave",
+  "city": "Homer",
+  "lat": 59.64766,
+  "lon": -151.53106,
+  "name": "Kachemak Bay Campus",
+  "precinct": "06-230 Homer No. 1"
+ },
+ "06-240 Homer No. 2": {
+  "address": "770 East End Rd",
+  "city": "Homer",
+  "lat": 59.6496,
+  "lon": -151.52432,
+  "name": "Homer United Methodist Church",
+  "precinct": "06-240 Homer No. 2"
+ },
+ "06-250 Kachemak/Fritz Creek": {
+  "address": "59906 Bear Creek Dr",
+  "city": "Homer",
+  "lat": 59.66772,
+  "lon": -151.45327,
+  "name": "Kachemak Community Center",
+  "precinct": "06-250 Kachemak/Fritz Creek"
+ },
+ "06-260 Kasilof": {
+  "address": "51540 Mercantile Ave",
+  "city": "Kasilof",
+  "lat": 60.32156,
+  "lon": -151.25766,
+  "name": "Kasilof Community Church",
+  "precinct": "06-260 Kasilof"
+ },
+ "06-270 Ninilchik": {
+  "address": "15763 Kingsley Rd",
+  "city": "Ninilchik",
+  "lat": 60.04397,
+  "lon": -151.66528,
+  "name": "Ninilchik Community Center",
+  "precinct": "06-270 Ninilchik"
+ },
+ "06-280 Seldovia/Kachemak Bay": {
+  "address": "260 Seldovia St",
+  "city": "Seldovia",
+  "lat": 59.43872,
+  "lon": -151.7146,
+  "name": "Seldovia Library",
+  "precinct": "06-280 Seldovia/Kachemak Bay"
+ },
+ "07-005 Central": {
+  "address": "538 Arena Ave",
+  "city": "Soldotna",
+  "lat": 60.47564,
+  "lon": -151.10308,
+  "name": "Soldotna Sports Center",
+  "precinct": "07-005 Central"
+ },
+ "07-010 K Beach": {
+  "address": "538 Arena Ave",
+  "city": "Soldotna",
+  "lat": 60.47589,
+  "lon": -151.10203,
+  "name": "Soldotna Sports Center",
+  "precinct": "07-010 K Beach"
+ },
+ "07-015 Kenai No. 1": {
+  "address": "11312 Kenai Spur Hwy",
+  "city": "Kenai",
+  "lat": 60.55462,
+  "lon": -151.25635,
+  "name": "Kenai Mall",
+  "precinct": "07-015 Kenai No. 1"
+ },
+ "07-020 Kenai No. 2": {
+  "address": "9583 Kenai Spur Hwy",
+  "city": "Kenai",
+  "lat": 60.56177,
+  "lon": -151.21233,
+  "name": "Kenai Central High School",
+  "precinct": "07-020 Kenai No. 2"
+ },
+ "07-025 Kenai No. 3": {
+  "address": "11471 Kenai Spur Hwy",
+  "city": "Kenai",
+  "lat": 60.5548,
+  "lon": -151.26165,
+  "name": "Kenai Visitors Center",
+  "precinct": "07-025 Kenai No. 3"
+ },
+ "07-030 Soldotna": {
+  "address": "526 Arena Ave",
+  "city": "Soldotna",
+  "lat": 60.47506,
+  "lon": -151.10035,
+  "name": "Soldotna Field House",
+  "precinct": "07-030 Soldotna"
+ },
+ "08-035 Bear Creek": {
+  "address": "13105 Seward Hwy",
+  "city": "Seward",
+  "lat": 60.16831,
+  "lon": -149.40197,
+  "name": "Bear Creek Fire Hall",
+  "precinct": "08-035 Bear Creek"
+ },
+ "08-040 Cooper Landing": {
+  "address": "Bean Creek Rd",
+  "city": "Cooper Landing",
+  "lat": 60.49139,
+  "lon": -149.83617,
+  "name": "Cooper Landing Community Hall",
+  "precinct": "08-040 Cooper Landing"
+ },
+ "08-045 Funny River No. 1": {
+  "address": "35850 Pioneer Acres",
+  "city": "Soldotna",
+  "lat": 60.50143,
+  "lon": -150.83799,
+  "name": "Funny River Community Center",
+  "precinct": "08-045 Funny River No. 1"
+ },
+ "08-050 Funny River No. 2": {
+  "address": "514 Funny River Rd",
+  "city": "Soldotna",
+  "lat": 60.47971,
+  "lon": -151.04177,
+  "name": "Donald E Gilman River Center",
+  "precinct": "08-050 Funny River No. 2"
+ },
+ "08-055 Hope": {
+  "address": "A Ave",
+  "city": "Hope",
+  "lat": 60.91869,
+  "lon": -149.64309,
+  "name": "Hope Retreat Center",
+  "precinct": "08-055 Hope"
+ },
+ "08-060 Mackey Lake": {
+  "address": "526 Arena Ave",
+  "city": "Soldotna",
+  "lat": 60.47468,
+  "lon": -151.10033,
+  "name": "Soldotna Field House",
+  "precinct": "08-060 Mackey Lake"
+ },
+ "08-065 Moose Pass": {
+  "address": "Mi 29.5 Seward Hwy",
+  "city": "Moose Pass",
+  "lat": 60.49496,
+  "lon": -149.3707,
+  "name": "Moose Pass Community Hall",
+  "precinct": "08-065 Moose Pass"
+ },
+ "08-070 Nikiski": {
+  "address": "50097 Kenai Spur Hwy",
+  "city": "Nikiski",
+  "lat": 60.70453,
+  "lon": -151.37957,
+  "name": "Nikiski Community Recreation Center",
+  "precinct": "08-070 Nikiski"
+ },
+ "08-075 Salamatof": {
+  "address": "50097 Kenai Spur Hwy",
+  "city": "Nikiski",
+  "lat": 60.70453,
+  "lon": -151.37957,
+  "name": "Nikiski Community Recreation Center",
+  "precinct": "08-075 Salamatof"
+ },
+ "08-080 Sterling No. 1": {
+  "address": "38377 Swanson River Rd",
+  "city": "Sterling",
+  "lat": 60.53691,
+  "lon": -150.79527,
+  "name": "Sterling Community Center",
+  "precinct": "08-080 Sterling No. 1"
+ },
+ "08-085 Sterling No. 2": {
+  "address": "38377 Swanson River Rd",
+  "city": "Sterling",
+  "lat": 60.53691,
+  "lon": -150.79527,
+  "name": "Sterling Community Center",
+  "precinct": "08-085 Sterling No. 2"
+ },
+ "09-105 Girdwood": {
+  "address": "250 Egloff St",
+  "city": "Girdwood",
+  "lat": 60.96014,
+  "lon": -149.13498,
+  "name": "Girdwood Community Center",
+  "precinct": "09-105 Girdwood"
+ },
+ "09-110 Indian": {
+  "address": "29135 Seward Hwy",
+  "city": "Indian",
+  "lat": 60.98454,
+  "lon": -149.49554,
+  "name": "Valley Bible Chalet",
+  "precinct": "09-110 Indian"
+ },
+ "09-115 South Anchorage No. 1": {
+  "address": "13650 Lake Otis Pkwy",
+  "city": "Anchorage",
+  "lat": 61.09599,
+  "lon": -149.83398,
+  "name": "Rabbit Creek Elementary School",
+  "precinct": "09-115 South Anchorage No. 1"
+ },
+ "09-120 South Anchorage No. 2": {
+  "address": "13400 Elmore Rd",
+  "city": "Anchorage",
+  "lat": 61.09967,
+  "lon": -149.80965,
+  "name": "South High School",
+  "precinct": "09-120 South Anchorage No. 2"
+ },
+ "09-125 South Anchorage No. 3": {
+  "address": "3401 Rabbit Creek Rd",
+  "city": "Anchorage",
+  "lat": 61.08336,
+  "lon": -149.81788,
+  "name": "Rabbit Creek Community Church",
+  "precinct": "09-125 South Anchorage No. 3"
+ },
+ "09-130 South Anchorage No. 4": {
+  "address": "15800 Golden View Dr",
+  "city": "Anchorage",
+  "lat": 61.07799,
+  "lon": -149.77834,
+  "name": "Goldenview Middle School",
+  "precinct": "09-130 South Anchorage No. 4"
+ },
+ "09-135 South Anchorage No. 5": {
+  "address": "15001 Mountain Air Dr",
+  "city": "Anchorage",
+  "lat": 61.08433,
+  "lon": -149.74827,
+  "name": "Bear Valley Elementary School",
+  "precinct": "09-135 South Anchorage No. 5"
+ },
+ "09-140 Stuckagain Heights": {
+  "address": "4515 Campbell Airstrip Rd",
+  "city": "Anchorage",
+  "lat": 61.17955,
+  "lon": -149.75955,
+  "name": "Benny Benson School",
+  "precinct": "09-140 Stuckagain Heights"
+ },
+ "09-145 Whittier": {
+  "address": "660 Whittier St",
+  "city": "Whittier",
+  "lat": 60.77395,
+  "lon": -148.68246,
+  "name": "3rd Floor City Council Chambers Whittier Public Safety Building",
+  "precinct": "09-145 Whittier"
+ },
+ "10-150 Dimond": {
+  "address": "1301 W 100th Ave",
+  "city": "Anchorage",
+  "lat": 61.1303,
+  "lon": -149.90361,
+  "name": "Kingdom Life Church",
+  "precinct": "10-150 Dimond"
+ },
+ "10-155 Oceanview No. 1": {
+  "address": "2222 W 100th Ave",
+  "city": "Anchorage",
+  "lat": 61.13019,
+  "lon": -149.92092,
+  "name": "Christ Community Church",
+  "precinct": "10-155 Oceanview No. 1"
+ },
+ "10-160 Oceanview No. 2": {
+  "address": "11900 Puma St",
+  "city": "Anchorage",
+  "lat": 61.11309,
+  "lon": -149.90698,
+  "name": "Klatt Elementary School",
+  "precinct": "10-160 Oceanview No. 2"
+ },
+ "10-165 Oceanview No. 3": {
+  "address": "11911 Johns Rd",
+  "city": "Anchorage",
+  "lat": 61.11277,
+  "lon": -149.87875,
+  "name": "Ocean View Elementary School",
+  "precinct": "10-165 Oceanview No. 3"
+ },
+ "10-170 Oceanview No. 4": {
+  "address": "1612 Oceanview Dr",
+  "city": "Anchorage",
+  "lat": 61.09958,
+  "lon": -149.85223,
+  "name": "Christ Our Savior Lutheran Church",
+  "precinct": "10-170 Oceanview No. 4"
+ },
+ "10-175 Oceanview No. 5": {
+  "address": "12130 Old Seward Hwy",
+  "city": "Anchorage",
+  "lat": 61.11034,
+  "lon": -149.86397,
+  "name": "Sunset Hills Baptist Church",
+  "precinct": "10-175 Oceanview No. 5"
+ },
+ "11-205 Hillside No. 1": {
+  "address": "10121 Lake Otis Pkwy",
+  "city": "Anchorage",
+  "lat": 61.12998,
+  "lon": -149.8338,
+  "name": "Hanshew Middle School",
+  "precinct": "11-205 Hillside No. 1"
+ },
+ "11-210 Hillside No. 2": {
+  "address": "9911 Lake Otis Pkwy",
+  "city": "Anchorage",
+  "lat": 61.13302,
+  "lon": -149.82957,
+  "name": "Spring Hill Elementary School",
+  "precinct": "11-210 Hillside No. 2"
+ },
+ "11-215 Hillside No. 3": {
+  "address": "11700 Gregory Rd",
+  "city": "Anchorage",
+  "lat": 61.11414,
+  "lon": -149.84523,
+  "name": "Bowman Elementary School",
+  "precinct": "11-215 Hillside No. 3"
+ },
+ "11-220 Hillside No. 4": {
+  "address": "4731 O'Malley Rd",
+  "city": "Anchorage",
+  "lat": 61.1231,
+  "lon": -149.79114,
+  "name": "Alaska Zoo",
+  "precinct": "11-220 Hillside No. 4"
+ },
+ "11-225 Hillside No. 5": {
+  "address": "4731 O'Malley Rd",
+  "city": "Anchorage",
+  "lat": 61.1231,
+  "lon": -149.79114,
+  "name": "Alaska Zoo",
+  "precinct": "11-225 Hillside No. 5"
+ },
+ "11-230 Hillside No. 6": {
+  "address": "11100 Rockridge Dr",
+  "city": "Anchorage",
+  "lat": 61.12012,
+  "lon": -149.76693,
+  "name": "O'Malley Elementary School",
+  "precinct": "11-230 Hillside No. 6"
+ },
+ "11-235 Hillside No. 7": {
+  "address": "6100 O'Malley Rd",
+  "city": "Anchorage",
+  "lat": 61.12303,
+  "lon": -149.76796,
+  "name": "Seventh Day Adventist Conference Center",
+  "precinct": "11-235 Hillside No. 7"
+ },
+ "12-250 Southeast Anchorage No. 1": {
+  "address": "2424 E Dowling Rd",
+  "city": "Anchorage",
+  "lat": 61.16636,
+  "lon": -149.83559,
+  "name": "Northern Lights ABC School",
+  "precinct": "12-250 Southeast Anchorage No. 1"
+ },
+ "12-255 Southeast Anchorage No. 2": {
+  "address": "5151 Abbott Rd",
+  "city": "Anchorage",
+  "lat": 61.14,
+  "lon": -149.78713,
+  "name": "Trailside Elementary School",
+  "precinct": "12-255 Southeast Anchorage No. 2"
+ },
+ "12-260 Southeast Anchorage No. 3": {
+  "address": "4700 Elmore Rd",
+  "city": "Anchorage",
+  "lat": 61.17797,
+  "lon": -149.80826,
+  "name": "MOA Public Works Department",
+  "precinct": "12-260 Southeast Anchorage No. 3"
+ },
+ "12-265 Southeast Anchorage No. 4": {
+  "address": "4000 E 68th Ave",
+  "city": "Anchorage",
+  "lat": 61.15915,
+  "lon": -149.80805,
+  "name": "Kasuun Elementary School",
+  "precinct": "12-265 Southeast Anchorage No. 4"
+ },
+ "12-270 Southeast Anchorage No. 5": {
+  "address": "5577 Abbott Rd",
+  "city": "Anchorage",
+  "lat": 61.13939,
+  "lon": -149.78002,
+  "name": "Service High School",
+  "precinct": "12-270 Southeast Anchorage No. 5"
+ },
+ "12-275 Southeast Anchorage No. 6": {
+  "address": "5577 Abbott Rd",
+  "city": "Anchorage",
+  "lat": 61.13939,
+  "lon": -149.78002,
+  "name": "Service High School",
+  "precinct": "12-275 Southeast Anchorage No. 6"
+ },
+ "13-305 South Midtown No. 1": {
+  "address": "610 W 54th Ave",
+  "city": "Anchorage",
+  "lat": 61.1717,
+  "lon": -149.8938,
+  "name": "Plumbers & Steamfitters Hall",
+  "precinct": "13-305 South Midtown No. 1"
+ },
+ "13-310 South Midtown No. 2": {
+  "address": "7206 Rovenna St",
+  "city": "Anchorage",
+  "lat": 61.15463,
+  "lon": -149.89961,
+  "name": "Campbell Elementary School",
+  "precinct": "13-310 South Midtown No. 2"
+ },
+ "13-315 South Midtown No. 3": {
+  "address": "6689 Changepoint Dr",
+  "city": "Anchorage",
+  "lat": 61.16114,
+  "lon": -149.90428,
+  "name": "ChangePoint",
+  "precinct": "13-315 South Midtown No. 3"
+ },
+ "13-320 South Midtown No. 4": {
+  "address": "701 E 72nd Ave",
+  "city": "Anchorage",
+  "lat": 61.15559,
+  "lon": -149.86926,
+  "name": "Taku Elementary School",
+  "precinct": "13-320 South Midtown No. 4"
+ },
+ "13-325 South Midtown No. 5": {
+  "address": "1666 Cache Dr",
+  "city": "Anchorage",
+  "lat": 61.17506,
+  "lon": -149.8504,
+  "name": "Tudor Elementary School",
+  "precinct": "13-325 South Midtown No. 5"
+ },
+ "14-350 North Midtown No. 1": {
+  "address": "2500 Minnesota Dr",
+  "city": "Anchorage",
+  "lat": 61.20037,
+  "lon": -149.91739,
+  "name": "Romig Middle School",
+  "precinct": "14-350 North Midtown No. 1"
+ },
+ "14-355 North Midtown No. 2": {
+  "address": "2300 W 36th Ave",
+  "city": "Anchorage",
+  "lat": 61.18804,
+  "lon": -149.92563,
+  "name": "Boys & Girls Club",
+  "precinct": "14-355 North Midtown No. 2"
+ },
+ "14-360 North Midtown No. 3": {
+  "address": "4807 Northwood Dr",
+  "city": "Anchorage",
+  "lat": 61.17647,
+  "lon": -149.92779,
+  "name": "Northwood Elementary School",
+  "precinct": "14-360 North Midtown No. 3"
+ },
+ "14-365 North Midtown No. 4": {
+  "address": "2508 Blueberry Rd",
+  "city": "Anchorage",
+  "lat": 61.19772,
+  "lon": -149.89261,
+  "name": "Steller Secondary School",
+  "precinct": "14-365 North Midtown No. 4"
+ },
+ "14-370 North Midtown No. 5": {
+  "address": "1004 W Tudor Rd",
+  "city": "Anchorage",
+  "lat": 61.18065,
+  "lon": -149.9035,
+  "name": "Willow Crest Elementary School",
+  "precinct": "14-370 North Midtown No. 5"
+ },
+ "14-375 North Midtown No. 6": {
+  "address": "3600 Denali St",
+  "city": "Anchorage",
+  "lat": 61.18707,
+  "lon": -149.87646,
+  "name": "Loussac Library",
+  "precinct": "14-375 North Midtown No. 6"
+ },
+ "14-380 North Midtown No. 7": {
+  "address": "1400 E Northern Lights Blvd",
+  "city": "Anchorage",
+  "lat": 61.19534,
+  "lon": -149.85566,
+  "name": "Rogers Park Elementary School",
+  "precinct": "14-380 North Midtown No. 7"
+ },
+ "15-405 Southwest Anchorage No. 1": {
+  "address": "4025 W 88th Ave",
+  "city": "Anchorage",
+  "lat": 61.14112,
+  "lon": -149.95457,
+  "name": "Jewel Lake Community Church",
+  "precinct": "15-405 Southwest Anchorage No. 1"
+ },
+ "15-410 Southwest Anchorage No. 2": {
+  "address": "7500 Jewel Lake Rd",
+  "city": "Anchorage",
+  "lat": 61.15253,
+  "lon": -149.95193,
+  "name": "Sand Lake Elementary School",
+  "precinct": "15-410 Southwest Anchorage No. 2"
+ },
+ "15-415 Southwest Anchorage No. 3": {
+  "address": "2909 W 88th Ave",
+  "city": "Anchorage",
+  "lat": 61.14303,
+  "lon": -149.93509,
+  "name": "Dimond High School",
+  "precinct": "15-415 Southwest Anchorage No. 3"
+ },
+ "15-420 Southwest Anchorage No. 4": {
+  "address": "3101 W 88th Ave",
+  "city": "Anchorage",
+  "lat": 61.14112,
+  "lon": -149.9393,
+  "name": "Chinook Elementary School",
+  "precinct": "15-420 Southwest Anchorage No. 4"
+ },
+ "15-425 Southwest Anchorage No. 5": {
+  "address": "2700 W 100th Ave",
+  "city": "Anchorage",
+  "lat": 61.1275,
+  "lon": -149.93129,
+  "name": "Mears Middle School",
+  "precinct": "15-425 Southwest Anchorage No. 5"
+ },
+ "15-430 Southwest Anchorage No. 6": {
+  "address": "10500 Bayshore Dr",
+  "city": "Anchorage",
+  "lat": 61.12635,
+  "lon": -149.93909,
+  "name": "Bayshore Elementary School",
+  "precinct": "15-430 Southwest Anchorage No. 6"
+ },
+ "16-450 West Anchorage No. 1": {
+  "address": "3300 W Northern Lights Blvd",
+  "city": "Anchorage",
+  "lat": 61.1952,
+  "lon": -149.94563,
+  "name": "Turnagain United Methodist Church",
+  "precinct": "16-450 West Anchorage No. 1"
+ },
+ "16-455 West Anchorage No. 2": {
+  "address": "3500 W Northern Lights Blvd",
+  "city": "Anchorage",
+  "lat": 61.19525,
+  "lon": -149.94856,
+  "name": "Turnagain Elementary School",
+  "precinct": "16-455 West Anchorage No. 2"
+ },
+ "16-460 West Anchorage No. 3": {
+  "address": "3601 W 40th Ave",
+  "city": "Anchorage",
+  "lat": 61.18494,
+  "lon": -149.9524,
+  "name": "Alaska Native Cultural Center",
+  "precinct": "16-460 West Anchorage No. 3"
+ },
+ "16-465 West Anchorage No. 4": {
+  "address": "2020 W 48th Ave",
+  "city": "Anchorage",
+  "lat": 61.1772,
+  "lon": -149.92113,
+  "name": "Spenard Recreation Center",
+  "precinct": "16-465 West Anchorage No. 4"
+ },
+ "16-470 West Anchorage No. 5": {
+  "address": "3340 Raspberry Rd",
+  "city": "Anchorage",
+  "lat": 61.15912,
+  "lon": -149.94138,
+  "name": "Filipino Bible Church",
+  "precinct": "16-470 West Anchorage No. 5"
+ },
+ "16-475 West Anchorage No. 6": {
+  "address": "4900 Raspberry Rd",
+  "city": "Anchorage",
+  "lat": 61.15721,
+  "lon": -149.97091,
+  "name": "Kincaid Elementary School",
+  "precinct": "16-475 West Anchorage No. 6"
+ },
+ "16-480 West Anchorage No. 7": {
+  "address": "7001 Cranberry St",
+  "city": "Anchorage",
+  "lat": 61.15722,
+  "lon": -149.93691,
+  "name": "Gladys Wood Elementary School",
+  "precinct": "16-480 West Anchorage No. 7"
+ },
+ "17-505 Downtown Anchorage No. 1": {
+  "address": "725 W 9th Ave",
+  "city": "Anchorage",
+  "lat": 61.21365,
+  "lon": -149.89629,
+  "name": "First United Methodist Church",
+  "precinct": "17-505 Downtown Anchorage No. 1"
+ },
+ "17-510 Downtown Anchorage No. 2": {
+  "address": "1405 E St",
+  "city": "Anchorage",
+  "lat": 61.20771,
+  "lon": -149.88938,
+  "name": "Central Middle School",
+  "precinct": "17-510 Downtown Anchorage No. 2"
+ },
+ "17-515 Downtown Anchorage No. 3": {
+  "address": "1700 Hillcrest Dr",
+  "city": "Anchorage",
+  "lat": 61.19986,
+  "lon": -149.914,
+  "name": "West High School",
+  "precinct": "17-515 Downtown Anchorage No. 3"
+ },
+ "17-520 Downtown Anchorage No. 4": {
+  "address": "605 W Fireweed Ln",
+  "city": "Anchorage",
+  "lat": 61.19864,
+  "lon": -149.89414,
+  "name": "North Star Elementary School",
+  "precinct": "17-520 Downtown Anchorage No. 4"
+ },
+ "17-525 Downtown Anchorage No. 5": {
+  "address": "952 Cordova St",
+  "city": "Anchorage",
+  "lat": 61.21317,
+  "lon": -149.87921,
+  "name": "Denali Montessori School",
+  "precinct": "17-525 Downtown Anchorage No. 5"
+ },
+ "17-530 Downtown Anchorage No. 6": {
+  "address": "1121 E 10th Ave",
+  "city": "Anchorage",
+  "lat": 61.21266,
+  "lon": -149.86183,
+  "name": "Fairview Recreation Center",
+  "precinct": "17-530 Downtown Anchorage No. 6"
+ },
+ "17-535 Downtown Anchorage No. 7": {
+  "address": "1327 Nelchina St",
+  "city": "Anchorage",
+  "lat": 61.21011,
+  "lon": -149.85668,
+  "name": "Fairview Elementary School",
+  "precinct": "17-535 Downtown Anchorage No. 7"
+ },
+ "18-550 Government Hill": {
+  "address": "525 E Bluff Dr",
+  "city": "Anchorage",
+  "lat": 61.23354,
+  "lon": -149.87071,
+  "name": "Government Hill Elementary School",
+  "precinct": "18-550 Government Hill"
+ },
+ "18-555 JBER": {
+  "address": "336 Hoonah Ave",
+  "city": "JBER",
+  "lat": 61.24692,
+  "lon": -149.68726,
+  "name": "Ursa Minor Elementary School",
+  "precinct": "18-555 JBER"
+ },
+ "18-556 JBER #2": {
+  "address": "5112 Arctic Warrior Dr",
+  "city": "Jber",
+  "lat": 61.24143,
+  "lon": -149.80429,
+  "name": "Orion Elementary School",
+  "precinct": "18-556 JBER #2"
+ },
+ "18-560 North Muldoon": {
+  "address": "1101 Golden Bear Dr",
+  "city": "Anchorage",
+  "lat": 61.23241,
+  "lon": -149.73312,
+  "name": "Bartlett High School",
+  "precinct": "18-560 North Muldoon"
+ },
+ "18-565 Ship Creek": {
+  "address": "619 E Ship Creek Ave",
+  "city": "Anchorage",
+  "lat": 61.22273,
+  "lon": -149.87248,
+  "name": "MOA Voting Center",
+  "precinct": "18-565 Ship Creek"
+ },
+ "19-605 Airport Heights No. 1": {
+  "address": "1510 Alder Dr",
+  "city": "Anchorage",
+  "lat": 61.20702,
+  "lon": -149.82895,
+  "name": "Airport Heights Elementary School",
+  "precinct": "19-605 Airport Heights No. 1"
+ },
+ "19-610 Airport Heights No. 2": {
+  "address": "1200 San Antonio St",
+  "city": "Anchorage",
+  "lat": 61.2113,
+  "lon": -149.79525,
+  "name": "Williwaw Elementary School",
+  "precinct": "19-610 Airport Heights No. 2"
+ },
+ "19-615 Mountainview No. 1": {
+  "address": "4005 Mcphee Ave",
+  "city": "Anchorage",
+  "lat": 61.23141,
+  "lon": -149.80557,
+  "name": "Mt View Elementary School",
+  "precinct": "19-615 Mountainview No. 1"
+ },
+ "19-620 Mountainview No. 2": {
+  "address": "315 Price St",
+  "city": "Anchorage",
+  "lat": 61.22617,
+  "lon": -149.81136,
+  "name": "Mountain View Community Center",
+  "precinct": "19-620 Mountainview No. 2"
+ },
+ "19-625 South Mountainview": {
+  "address": "150 Bragaw St",
+  "city": "Anchorage",
+  "lat": 61.22262,
+  "lon": -149.80853,
+  "name": "Clark Middle School",
+  "precinct": "19-625 South Mountainview"
+ },
+ "20-650 University No. 1": {
+  "address": "4025 E Northern Lights Blvd",
+  "city": "Anchorage",
+  "lat": 61.19897,
+  "lon": -149.80639,
+  "name": "Bettye Davis East High School",
+  "precinct": "20-650 University No. 1"
+ },
+ "20-655 University No. 2": {
+  "address": "5353 Lake Otis Pkwy",
+  "city": "Anchorage",
+  "lat": 61.17228,
+  "lon": -149.83436,
+  "name": "YMCA",
+  "precinct": "20-655 University No. 2"
+ },
+ "20-660 University No. 3": {
+  "address": "3101 Sunflower St",
+  "city": "Anchorage",
+  "lat": 61.19319,
+  "lon": -149.78415,
+  "name": "College Gate Elementary School",
+  "precinct": "20-660 University No. 3"
+ },
+ "20-665 University No. 4": {
+  "address": "4300 Boniface Pkwy",
+  "city": "Anchorage",
+  "lat": 61.18138,
+  "lon": -149.77838,
+  "name": "Alaska Housing Finance Corporation Building",
+  "precinct": "20-665 University No. 4"
+ },
+ "20-670 University No. 5": {
+  "address": "5530 E Northern Lights Blvd",
+  "city": "Anchorage",
+  "lat": 61.19516,
+  "lon": -149.77577,
+  "name": "Anchorage School District Building",
+  "precinct": "20-670 University No. 5"
+ },
+ "21-705 East Anchorage No. 1": {
+  "address": "1905 Twining Dr",
+  "city": "Anchorage",
+  "lat": 61.20378,
+  "lon": -149.77674,
+  "name": "Anchorage STREAM Academy Charter School",
+  "precinct": "21-705 East Anchorage No. 1"
+ },
+ "21-710 East Anchorage No. 2": {
+  "address": "7440 Creekside Center Dr",
+  "city": "Anchorage",
+  "lat": 61.20828,
+  "lon": -149.74099,
+  "name": "Begich Middle School",
+  "precinct": "21-710 East Anchorage No. 2"
+ },
+ "21-715 East Anchorage No. 3": {
+  "address": "2111 Muldoon Rd",
+  "city": "Anchorage",
+  "lat": 61.20143,
+  "lon": -149.73342,
+  "name": "St Patrick's Parish",
+  "precinct": "21-715 East Anchorage No. 3"
+ },
+ "21-720 East Anchorage No. 4": {
+  "address": "2991 Baxter Rd",
+  "city": "Anchorage",
+  "lat": 61.19323,
+  "lon": -149.76339,
+  "name": "Baxter Elementary School",
+  "precinct": "21-720 East Anchorage No. 4"
+ },
+ "21-725 East Anchorage No. 5": {
+  "address": "3933 Patterson St",
+  "city": "Anchorage",
+  "lat": 61.18522,
+  "lon": -149.74839,
+  "name": "Scenic Park Elementary School",
+  "precinct": "21-725 East Anchorage No. 5"
+ },
+ "22-750 Northeast Anchorage No. 1": {
+  "address": "5101 E 4th Ave",
+  "city": "Anchorage",
+  "lat": 61.21869,
+  "lon": -149.7846,
+  "name": "Wonder Park Elementary School",
+  "precinct": "22-750 Northeast Anchorage No. 1"
+ },
+ "22-755 Northeast Anchorage No. 2": {
+  "address": "888 Edward St",
+  "city": "Anchorage",
+  "lat": 61.21426,
+  "lon": -149.76344,
+  "name": "Ptarmigan Elementary School",
+  "precinct": "22-755 Northeast Anchorage No. 2"
+ },
+ "22-760 Northeast Anchorage No. 3": {
+  "address": "7500 E 6th Ave",
+  "city": "Anchorage",
+  "lat": 61.21692,
+  "lon": -149.74206,
+  "name": "Creekside Park Elementary School",
+  "precinct": "22-760 Northeast Anchorage No. 3"
+ },
+ "22-765 Northeast Anchorage No. 4": {
+  "address": "525 Cherry St",
+  "city": "Anchorage",
+  "lat": 61.21788,
+  "lon": -149.72219,
+  "name": "Muldoon Elementary School",
+  "precinct": "22-765 Northeast Anchorage No. 4"
+ },
+ "23-805 Chugach Park No. 1": {
+  "address": "9500 Wren Cir",
+  "city": "Eagle River",
+  "lat": 61.30623,
+  "lon": -149.50226,
+  "name": "Ravenwood Elementary School",
+  "precinct": "23-805 Chugach Park No. 1"
+ },
+ "23-810 Eagle River No. 1": {
+  "address": "10900 Old Eagle River Rd",
+  "city": "Eagle River",
+  "lat": 61.31925,
+  "lon": -149.56868,
+  "name": "Eagle River Elementary School",
+  "precinct": "23-810 Eagle River No. 1"
+ },
+ "23-815 Eagle River No. 2": {
+  "address": "19201 Driftwood Bay Dr",
+  "city": "Eagle River",
+  "lat": 61.3007,
+  "lon": -149.52435,
+  "name": "Alpenglow Elementary School",
+  "precinct": "23-815 Eagle River No. 2"
+ },
+ "23-820 Hiland": {
+  "address": "8701 Wolf Den Dr",
+  "city": "Eagle River",
+  "lat": 61.29798,
+  "lon": -149.57348,
+  "name": "Eagle River High School",
+  "precinct": "23-820 Hiland"
+ },
+ "23-825 Meadow Creek No. 1": {
+  "address": "18001 Baronoff Ave",
+  "city": "Eagle River",
+  "lat": 61.31438,
+  "lon": -149.54673,
+  "name": "Homestead Elementary School",
+  "precinct": "23-825 Meadow Creek No. 1"
+ },
+ "23-830 Meadow Creek No. 2": {
+  "address": "10111 E Eagle River Loop Rd",
+  "city": "Eagle River",
+  "lat": 61.31157,
+  "lon": -149.53875,
+  "name": "Joy Lutheran Church",
+  "precinct": "23-830 Meadow Creek No. 2"
+ },
+ "24-850 Chugach Park No. 2": {
+  "address": "18239 N Eagle River Loop Rd",
+  "city": "Eagle River",
+  "lat": 61.32319,
+  "lon": -149.54165,
+  "name": "Skyline Family Fellowship",
+  "precinct": "24-850 Chugach Park No. 2"
+ },
+ "24-855 Chugiak": {
+  "address": "16525 Birchwood Loop Rd",
+  "city": "Chugiak",
+  "lat": 61.36951,
+  "lon": -149.53875,
+  "name": "Chugiak High School",
+  "precinct": "24-855 Chugiak"
+ },
+ "24-860 Eagle River No. 3": {
+  "address": "12001 Business Blvd #123",
+  "city": "Eagle River",
+  "lat": 61.32959,
+  "lon": -149.57139,
+  "name": "Eagle River Parks & Recreation",
+  "precinct": "24-860 Eagle River No. 3"
+ },
+ "24-865 Eklutna": {
+  "address": "22901 Lake Hill Dr",
+  "city": "Chugiak",
+  "lat": 61.42754,
+  "lon": -149.42714,
+  "name": "Mirror Lake Middle School",
+  "precinct": "24-865 Eklutna"
+ },
+ "24-870 Fire Lake": {
+  "address": "13801 Harry McDonald Rd",
+  "city": "Eagle River",
+  "lat": 61.34477,
+  "lon": -149.54721,
+  "name": "Fire Lake Elementary School",
+  "precinct": "24-870 Fire Lake"
+ },
+ "24-875 Peters Creek No. 1": {
+  "address": "20640 Chapel Dr",
+  "city": "Chugiak",
+  "lat": 61.40672,
+  "lon": -149.45024,
+  "name": "Bridge of Hope Apostolic Center",
+  "precinct": "24-875 Peters Creek No. 1"
+ },
+ "24-880 Peters Creek No. 2": {
+  "address": "20640 Chapel Dr",
+  "city": "Chugiak",
+  "lat": 61.40672,
+  "lon": -149.45024,
+  "name": "Bridge of Hope Apostolic Center",
+  "precinct": "24-880 Peters Creek No. 2"
+ },
+ "25-305 Butte": {
+  "address": "4006 S Butte Rd",
+  "city": "Palmer",
+  "lat": 61.53785,
+  "lon": -149.00594,
+  "name": "Butte Elementary School",
+  "precinct": "25-305 Butte"
+ },
+ "25-310 Greater Palmer": {
+  "address": "610 S Valley Way",
+  "city": "Palmer",
+  "lat": 61.60007,
+  "lon": -149.11305,
+  "name": "Palmer Community Center",
+  "precinct": "25-310 Greater Palmer"
+ },
+ "25-315 Lazy Mountain": {
+  "address": "16005 E Shawn Dr",
+  "city": "Palmer",
+  "lat": 61.61114,
+  "lon": -149.04896,
+  "name": "Lazy Mountain Bible Church",
+  "precinct": "25-315 Lazy Mountain"
+ },
+ "25-320 Palmer City No. 1": {
+  "address": "350 E Dahlia Ave",
+  "city": "Palmer",
+  "lat": 61.60008,
+  "lon": -149.10875,
+  "name": "Mat-Su Borough Building",
+  "precinct": "25-320 Palmer City No. 1"
+ },
+ "25-325 Palmer City No. 2": {
+  "address": "501 N Gulkana St",
+  "city": "Palmer",
+  "lat": 61.61115,
+  "lon": -149.0971,
+  "name": "Mat-Su School District Building",
+  "precinct": "25-325 Palmer City No. 2"
+ },
+ "25-330 Springer Loop": {
+  "address": "2238 S Inner Springer Lp",
+  "city": "Palmer",
+  "lat": 61.57061,
+  "lon": -149.14659,
+  "name": "Palmer 7th Day Adventist Church",
+  "precinct": "25-330 Springer Loop"
+ },
+ "25-335 Walby": {
+  "address": "9550 E Bogard Rd",
+  "city": "Palmer",
+  "lat": 61.60996,
+  "lon": -149.21268,
+  "name": "Colony High School",
+  "precinct": "25-335 Walby"
+ },
+ "26-350 Fairview No. 1": {
+  "address": "4961 E Nelson Rd",
+  "city": "Wasilla",
+  "lat": 61.54832,
+  "lon": -149.32473,
+  "name": "Machentanz Elementary School",
+  "precinct": "26-350 Fairview No. 1"
+ },
+ "26-355 Fairview No. 2": {
+  "address": "1911 S Terrace Ct",
+  "city": "Wasilla",
+  "lat": 61.5619,
+  "lon": -149.28666,
+  "name": "Central Mat-Su Fire Station 51",
+  "precinct": "26-355 Fairview No. 2"
+ },
+ "26-360 Knik Goose Bay No. 1": {
+  "address": "6350 W Hollywood Rd",
+  "city": "Wasilla",
+  "lat": 61.53975,
+  "lon": -149.61283,
+  "name": "Knik Elementary School",
+  "precinct": "26-360 Knik Goose Bay No. 1"
+ },
+ "26-365 Knik Goose Bay No. 2": {
+  "address": "6865 W Dewlap Cir",
+  "city": "Wasilla",
+  "lat": 61.51685,
+  "lon": -149.62624,
+  "name": "Settlers Bay Community Church",
+  "precinct": "26-365 Knik Goose Bay No. 2"
+ },
+ "26-370 Knik Goose Bay No. 3": {
+  "address": "6350 W Hollywood Rd",
+  "city": "Wasilla",
+  "lat": 61.53977,
+  "lon": -149.61299,
+  "name": "Knik Elementary School",
+  "precinct": "26-370 Knik Goose Bay No. 3"
+ },
+ "26-375 Mat-Su Campus": {
+  "address": "8295 E College Dr",
+  "city": "Palmer",
+  "lat": 61.5798,
+  "lon": -149.2425,
+  "name": "Matanuska-Susitna College",
+  "precinct": "26-375 Mat-Su Campus"
+ },
+ "26-380 Snowshoe": {
+  "address": "3118 W Fairview Loop",
+  "city": "Wasilla",
+  "lat": 61.52718,
+  "lon": -149.52439,
+  "name": "Fairview Loop Baptist Church",
+  "precinct": "26-380 Snowshoe"
+ },
+ "27-405 Foothills": {
+  "address": "4180 W Tweed Ct",
+  "city": "Wasilla",
+  "lat": 61.5854,
+  "lon": -149.55414,
+  "name": "American Legion Post 35",
+  "precinct": "27-405 Foothills"
+ },
+ "27-410 Meadow Lakes No. 1": {
+  "address": "1741 N Pittman Rd",
+  "city": "Wasilla",
+  "lat": 61.6103,
+  "lon": -149.62104,
+  "name": "Meadow Lakes Elementary School",
+  "precinct": "27-410 Meadow Lakes No. 1"
+ },
+ "27-415 Meadow Lakes No. 2": {
+  "address": "10073 W Parks Hwy",
+  "city": "Wasilla",
+  "lat": 61.56884,
+  "lon": -149.70441,
+  "name": "West Lakes Fire Station 73",
+  "precinct": "27-415 Meadow Lakes No. 2"
+ },
+ "27-420 Wasilla No. 1": {
+  "address": "290 E Herning Ave",
+  "city": "Wasilla",
+  "lat": 61.58222,
+  "lon": -149.44432,
+  "name": "Wasilla City Hall",
+  "precinct": "27-420 Wasilla No. 1"
+ },
+ "27-425 Wasilla No. 2": {
+  "address": "1001 Clapp St",
+  "city": "Wasilla",
+  "lat": 61.57374,
+  "lon": -149.51754,
+  "name": "Menard Sports Center",
+  "precinct": "27-425 Wasilla No. 2"
+ },
+ "28-450 Lakes No. 1": {
+  "address": "5981 E Eek St",
+  "city": "Wasilla",
+  "lat": 61.60916,
+  "lon": -149.30212,
+  "name": "Finger Lake Elementary School",
+  "precinct": "28-450 Lakes No. 1"
+ },
+ "28-455 Lakes No. 2": {
+  "address": "1959 N Stringfield Rd",
+  "city": "Palmer",
+  "lat": 61.6011,
+  "lon": -149.24406,
+  "name": "Pioneer Peak Elementary School",
+  "precinct": "28-455 Lakes No. 2"
+ },
+ "28-460 Seldon No. 1": {
+  "address": "2550 N Lucille St",
+  "city": "Wasilla",
+  "lat": 61.60843,
+  "lon": -149.45841,
+  "name": "Tanaina Elementary School",
+  "precinct": "28-460 Seldon No. 1"
+ },
+ "28-465 Seldon No. 2": {
+  "address": "3401 E Bogard Rd",
+  "city": "Wasilla",
+  "lat": 61.60307,
+  "lon": -149.37502,
+  "name": "Alcantra National Guard Armory",
+  "precinct": "28-465 Seldon No. 2"
+ },
+ "28-470 Seward Meridian": {
+  "address": "4800 E Palmer Wasilla Hwy",
+  "city": "Wasilla",
+  "lat": 61.58495,
+  "lon": -149.32887,
+  "name": "White Fields Church",
+  "precinct": "28-470 Seward Meridian"
+ },
+ "28-475 Trunk": {
+  "address": "1959 N Stringfield Rd",
+  "city": "Palmer",
+  "lat": 61.6011,
+  "lon": -149.24406,
+  "name": "Pioneer Peak Elementary School",
+  "precinct": "28-475 Trunk"
+ },
+ "28-480 Wasilla Lake": {
+  "address": "800 N Seward Meridian Pkwy",
+  "city": "Wasilla",
+  "lat": 61.58793,
+  "lon": -149.36002,
+  "name": "Cottonwood Creek Elementary School",
+  "precinct": "28-480 Wasilla Lake"
+ },
+ "29-505 Farm Loop": {
+  "address": "619 E Scott Rd",
+  "city": "Palmer",
+  "lat": 61.6113,
+  "lon": -149.12439,
+  "name": "Church on the Rock",
+  "precinct": "29-505 Farm Loop"
+ },
+ "29-510 Fishhook": {
+  "address": "10690 N Mountain Trails Dr",
+  "city": "Palmer",
+  "lat": 61.70429,
+  "lon": -149.27738,
+  "name": "Government Peak Chalet",
+  "precinct": "29-510 Fishhook"
+ },
+ "29-515 Kings Lake": {
+  "address": "2788 N Seward Meridian Pkwy",
+  "city": "Wasilla",
+  "lat": 61.61209,
+  "lon": -149.36545,
+  "name": "Teeland Middle School",
+  "precinct": "29-515 Kings Lake"
+ },
+ "29-520 Lakes No. 3": {
+  "address": "2472 N Seward Meridian Pkwy",
+  "city": "Wasilla",
+  "lat": 61.60914,
+  "lon": -149.36486,
+  "name": "Mat-Su Career Tech High School",
+  "precinct": "29-520 Lakes No. 3"
+ },
+ "29-525 Sheep Mountain": {
+  "address": "Mile 104 Glenn Hwy",
+  "city": "Sheep Mountain",
+  "lat": 61.79627,
+  "lon": -147.72528,
+  "name": "Glacier View School",
+  "precinct": "29-525 Sheep Mountain"
+ },
+ "29-530 Sutton": {
+  "address": "11301 N Chickaloon Way",
+  "city": "Sutton",
+  "lat": 61.71103,
+  "lon": -148.87741,
+  "name": "Sutton Library",
+  "precinct": "29-530 Sutton"
+ },
+ "29-535 Valdez No. 1": {
+  "address": "414 W Hanagita St",
+  "city": "Valdez",
+  "lat": 61.13699,
+  "lon": -146.36245,
+  "name": "Ike 'Woody' Woodman Recreation Center",
+  "precinct": "29-535 Valdez No. 1"
+ },
+ "29-540 Valdez No. 2": {
+  "address": "212 Chenega Dr",
+  "city": "Valdez",
+  "lat": 61.13007,
+  "lon": -146.35399,
+  "name": "Valdez City Council Chambers",
+  "precinct": "29-540 Valdez No. 2"
+ },
+ "29-545 Valdez No. 3": {
+  "address": "300 Airport Rd",
+  "city": "Valdez",
+  "lat": 61.13146,
+  "lon": -146.24056,
+  "name": "Valdez Airport",
+  "precinct": "29-545 Valdez No. 3"
+ },
+ "30-550 Anderson/Clear": {
+  "address": "1st Ave",
+  "city": "Anderson",
+  "lat": 64.34365,
+  "lon": -149.19055,
+  "name": "Anderson City Building",
+  "precinct": "30-550 Anderson/Clear"
+ },
+ "30-555 Big Lake": {
+  "address": "14225 W Kluane Rd",
+  "city": "Big Lake",
+  "lat": 61.5462,
+  "lon": -149.80528,
+  "name": "Faith Bible Fellowship Church",
+  "precinct": "30-555 Big Lake"
+ },
+ "30-560 Cantwell": {
+  "address": "Parks Hwy",
+  "city": "Cantwell",
+  "lat": 63.38977,
+  "lon": -148.89486,
+  "name": "Cantwell Community Center",
+  "precinct": "30-560 Cantwell"
+ },
+ "30-565 Denali Park": {
+  "address": "Mile 230 Parks Hwy",
+  "city": "Denali Park",
+  "lat": 63.64609,
+  "lon": -148.80395,
+  "name": "Denali Park Community Center",
+  "precinct": "30-565 Denali Park"
+ },
+ "30-570 East Schrock": {
+  "address": "1685 N Pittman Rd",
+  "city": "Wasilla",
+  "lat": 61.61158,
+  "lon": -149.62684,
+  "name": "Pittman Fire House",
+  "precinct": "30-570 East Schrock"
+ },
+ "30-575 Healy": {
+  "address": "5 Healy Spur Rd",
+  "city": "Healy",
+  "lat": 63.87331,
+  "lon": -149.01431,
+  "name": "Tri Valley Community Center",
+  "precinct": "30-575 Healy"
+ },
+ "30-580 Houston": {
+  "address": "13878 W Armstrong Rd",
+  "city": "Houston",
+  "lat": 61.63152,
+  "lon": -149.79989,
+  "name": "Houston City Hall",
+  "precinct": "30-580 Houston"
+ },
+ "30-585 Knik Goose Bay No. 4": {
+  "address": "10015 Redington School Rd",
+  "city": "Wasilla",
+  "lat": 61.50126,
+  "lon": -149.69975,
+  "name": "Joe Redington High School",
+  "precinct": "30-585 Knik Goose Bay No. 4"
+ },
+ "30-590 Trapper Creek": {
+  "address": "6742 E Petersville Rd",
+  "city": "Trapper Creek",
+  "lat": 62.31686,
+  "lon": -150.31511,
+  "name": "Trapper Creek Elementary School",
+  "precinct": "30-590 Trapper Creek"
+ },
+ "30-595 Susitna": {
+  "address": "42728 S Parks Hwy",
+  "city": "Talkeetna",
+  "lat": 62.13359,
+  "lon": -150.03933,
+  "name": "Susitna Valley High School",
+  "precinct": "30-595 Susitna"
+ },
+ "30-600 Talkeetna": {
+  "address": "24645 Talkeetna Spur Rd",
+  "city": "Talkeetna",
+  "lat": 62.29896,
+  "lon": -150.08406,
+  "name": "Talkeetna Public Library",
+  "precinct": "30-600 Talkeetna"
+ },
+ "30-605 Willow": {
+  "address": "23557 W Willow Comm Ctr Cir",
+  "city": "Willow",
+  "lat": 61.7442,
+  "lon": -150.04955,
+  "name": "Willow Community Center",
+  "precinct": "30-605 Willow"
+ },
+ "31-446 Aurora": {
+  "address": "1800 College Rd",
+  "city": "Fairbanks",
+  "lat": 64.86502,
+  "lon": -147.75518,
+  "name": "George Gasser Hall - Tanana Valley State Fair",
+  "precinct": "31-446 Aurora"
+ },
+ "31-455 Fairbanks No. 1": {
+  "address": "1215 Cowles St",
+  "city": "Fairbanks",
+  "lat": 64.83873,
+  "lon": -147.73841,
+  "name": "Noel Wien Library",
+  "precinct": "31-455 Fairbanks No. 1"
+ },
+ "31-480 Fairbanks No. 2": {
+  "address": "2300 Airport Way",
+  "city": "Fairbanks",
+  "lat": 64.83701,
+  "lon": -147.77369,
+  "name": "Pioneer Park Centennial Center",
+  "precinct": "31-480 Fairbanks No. 2"
+ },
+ "31-485 Fairbanks No. 3": {
+  "address": "1255 Airport Way",
+  "city": "Fairbanks",
+  "lat": 64.83673,
+  "lon": -147.74267,
+  "name": "Shoppers Forum",
+  "precinct": "31-485 Fairbanks No. 3"
+ },
+ "32-355 Fairbanks No. 4": {
+  "address": "100 Farewell Ave",
+  "city": "Fairbanks",
+  "lat": 64.84472,
+  "lon": -147.68914,
+  "name": "Fairwell Ave Christian Church",
+  "precinct": "32-355 Fairbanks No. 4"
+ },
+ "32-365 Fairbanks No. 5": {
+  "address": "600 Trainor Gate Rd",
+  "city": "Fairbanks",
+  "lat": 64.84828,
+  "lon": -147.66648,
+  "name": "Tanana Middle School",
+  "precinct": "32-365 Fairbanks No. 5"
+ },
+ "32-375 Fort Wainwright": {
+  "address": "1044 Marks Rd",
+  "city": "Fort Wainwright",
+  "lat": 64.84149,
+  "lon": -147.61138,
+  "name": "Last Frontier Community Center",
+  "precinct": "32-375 Fort Wainwright"
+ },
+ "32-385 Badger No. 2": {
+  "address": "771 Badger Rd",
+  "city": "North Pole",
+  "lat": 64.81832,
+  "lon": -147.5677,
+  "name": "Badger Plaza",
+  "precinct": "32-385 Badger No. 2"
+ },
+ "33-130 Badger No. 1": {
+  "address": "2371 Bradway Rd",
+  "city": "North Pole",
+  "lat": 64.8058,
+  "lon": -147.40797,
+  "name": "New Hope Methodist Presbyterian Church",
+  "precinct": "33-130 Badger No. 1"
+ },
+ "33-135 Chena Lakes": {
+  "address": "101 E 5th Ave",
+  "city": "North Pole",
+  "lat": 64.75065,
+  "lon": -147.35013,
+  "name": "Santa Senior Center",
+  "precinct": "33-135 Chena Lakes"
+ },
+ "33-155 Moose Creek": {
+  "address": "3445 Old Richardson Hwy",
+  "city": "North Pole",
+  "lat": 64.71263,
+  "lon": -147.16565,
+  "name": "Eielson Church of Christ",
+  "precinct": "33-155 Moose Creek"
+ },
+ "33-165 Newby": {
+  "address": "301 N Santa Claus Ln",
+  "city": "North Pole",
+  "lat": 64.75722,
+  "lon": -147.35252,
+  "name": "North Pole Plaza",
+  "precinct": "33-165 Newby"
+ },
+ "33-175 North Pole": {
+  "address": "125 Snowman Lane",
+  "city": "North Pole",
+  "lat": 64.75496,
+  "lon": -147.35081,
+  "name": "North Pole City Hall",
+  "precinct": "33-175 North Pole"
+ },
+ "33-183 Plack": {
+  "address": "301 N Santa Claus Ln",
+  "city": "North Pole",
+  "lat": 64.75721,
+  "lon": -147.35222,
+  "name": "North Pole Plaza",
+  "precinct": "33-183 Plack"
+ },
+ "34-235 Eielson": {
+  "address": "451 Broadway Ave",
+  "city": "Eielson Air Force Base",
+  "lat": 64.67671,
+  "lon": -147.08167,
+  "name": "Eielson Air Force Base Exchange",
+  "precinct": "34-235 Eielson"
+ },
+ "34-238 Eielson Farm Road": {
+  "address": "3445 Old Richardson Hwy",
+  "city": "North Pole",
+  "lat": 64.71261,
+  "lon": -147.16548,
+  "name": "Eielson Church of Christ",
+  "precinct": "34-238 Eielson Farm Road"
+ },
+ "34-240 Farmers Loop": {
+  "address": "1811 Farmers Loop Rd",
+  "city": "Fairbanks",
+  "lat": 64.87416,
+  "lon": -147.8238,
+  "name": "Seventh Day Adventist Gymnasium",
+  "precinct": "34-240 Farmers Loop"
+ },
+ "34-260 Salcha": {
+  "address": "8530 Richardson Hwy",
+  "city": "Salcha",
+  "lat": 64.48297,
+  "lon": -146.9789,
+  "name": "Salcha Elementary School",
+  "precinct": "34-260 Salcha"
+ },
+ "34-263 Steele Creek": {
+  "address": "635 Elementary Dr",
+  "city": "Fairbanks",
+  "lat": 64.88825,
+  "lon": -147.58936,
+  "name": "Weller Elementary School",
+  "precinct": "34-263 Steele Creek"
+ },
+ "34-265 Steese": {
+  "address": "32 College Rd",
+  "city": "Fairbanks",
+  "lat": 64.85063,
+  "lon": -147.70327,
+  "name": "Bentley Mall",
+  "precinct": "34-265 Steese"
+ },
+ "34-270 Summit": {
+  "address": "32 College Rd",
+  "city": "Fairbanks",
+  "lat": 64.85055,
+  "lon": -147.70293,
+  "name": "Bentley Mall",
+  "precinct": "34-270 Summit"
+ },
+ "34-280 Two Rivers": {
+  "address": "7324 Anders Ave",
+  "city": "Two Rivers",
+  "lat": 64.87784,
+  "lon": -146.87319,
+  "name": "Two Rivers Community Center",
+  "precinct": "34-280 Two Rivers"
+ },
+ "35-580 Airport": {
+  "address": "4782 Dale Rd",
+  "city": "Fairbanks",
+  "lat": 64.82383,
+  "lon": -147.86314,
+  "name": "Kornfeind Training Center",
+  "precinct": "35-580 Airport"
+ },
+ "35-582 Chena": {
+  "address": "910 Chena Pump Rd",
+  "city": "Fairbanks",
+  "lat": 64.82738,
+  "lon": -147.89154,
+  "name": "Faith Baptist Church",
+  "precinct": "35-582 Chena"
+ },
+ "35-584 Ester": {
+  "address": "2922 Parks Hwy",
+  "city": "Ester",
+  "lat": 64.84866,
+  "lon": -147.94095,
+  "name": "Ursa Major Distillery",
+  "precinct": "35-584 Ester"
+ },
+ "35-586 Geist": {
+  "address": "3510 College Rd",
+  "city": "Fairbanks",
+  "lat": 64.85649,
+  "lon": -147.8081,
+  "name": "University Community Presbyterian Church",
+  "precinct": "35-586 Geist"
+ },
+ "35-587 Lakeview": {
+  "address": "3400 S Cushman St",
+  "city": "Fairbanks",
+  "lat": 64.81396,
+  "lon": -147.7108,
+  "name": "Genes Chrysler Center",
+  "precinct": "35-587 Lakeview"
+ },
+ "35-592 Shanly": {
+  "address": "3480 College Rd",
+  "city": "Fairbanks",
+  "lat": 64.8566,
+  "lon": -147.80692,
+  "name": "Beaver Sports",
+  "precinct": "35-592 Shanly"
+ },
+ "35-595 University Hills": {
+  "address": "601 Loftus Rd",
+  "city": "Fairbanks",
+  "lat": 64.84721,
+  "lon": -147.844,
+  "name": "Effie Kokrine Charter School",
+  "precinct": "35-595 University Hills"
+ },
+ "35-596 University West": {
+  "address": "5000 Palo Verde Ave",
+  "city": "Fairbanks",
+  "lat": 64.83865,
+  "lon": -147.87114,
+  "name": "Woodriver Elementary School",
+  "precinct": "35-596 University West"
+ },
+ "36-001 Goldstream No. 1": {
+  "address": "1300 Goldstream Rd",
+  "city": "Fairbanks",
+  "lat": 64.94916,
+  "lon": -147.77843,
+  "name": "Chena Goldstream Fire Station 3",
+  "precinct": "36-001 Goldstream No. 1"
+ },
+ "36-002 Goldstream No. 2": {
+  "address": "2645 Goldstream Rd",
+  "city": "Fairbanks",
+  "lat": 64.91373,
+  "lon": -147.91044,
+  "name": "Ken Kunkel Community Center",
+  "precinct": "36-002 Goldstream No. 2"
+ },
+ "36-010 Allakaket": {
+  "address": "",
+  "city": "Allakaket",
+  "lat": 66.56403,
+  "lon": -152.65249,
+  "name": "Allakaket City Office",
+  "precinct": "36-010 Allakaket"
+ },
+ "36-014 Anvik": {
+  "address": "",
+  "city": "Anvik",
+  "lat": 62.65397,
+  "lon": -160.20081,
+  "name": "Anvik Community Hall",
+  "precinct": "36-014 Anvik"
+ },
+ "36-018 Arctic Village": {
+  "address": "",
+  "city": "Arctic Village",
+  "lat": 68.12568,
+  "lon": -145.54497,
+  "name": "Arctic Village Community Hall",
+  "precinct": "36-018 Arctic Village"
+ },
+ "36-022 Beaver": {
+  "address": "",
+  "city": "Beaver",
+  "lat": 66.35881,
+  "lon": -147.39821,
+  "name": "Beaver Council House",
+  "precinct": "36-022 Beaver"
+ },
+ "36-026 Bettles": {
+  "address": "",
+  "city": "Bettles",
+  "lat": 66.91766,
+  "lon": -151.52187,
+  "name": "Bettles Fire Station",
+  "precinct": "36-026 Bettles"
+ },
+ "36-034 Central": {
+  "address": "128 Steese Hwy",
+  "city": "Central",
+  "lat": 65.57251,
+  "lon": -144.80881,
+  "name": "Central District Museum",
+  "precinct": "36-034 Central"
+ },
+ "36-038 Chistochina": {
+  "address": "Mile 64 Tok Cutoff",
+  "city": "Slana",
+  "lat": 62.70931,
+  "lon": -143.97601,
+  "name": "Slana League Building",
+  "precinct": "36-038 Chistochina"
+ },
+ "36-042 Circle": {
+  "address": "",
+  "city": "Circle",
+  "lat": 65.8235,
+  "lon": -144.06184,
+  "name": "Circle Tribal Council",
+  "precinct": "36-042 Circle"
+ },
+ "36-046 Copper Center": {
+  "address": "Old Richardson Hwy",
+  "city": "Copper Center",
+  "lat": 61.96661,
+  "lon": -145.31725,
+  "name": "Native Village Of Kluti Kaah",
+  "precinct": "36-046 Copper Center"
+ },
+ "36-050 Delta Junction": {
+  "address": "2287 Deborah Street",
+  "city": "Delta Junction",
+  "lat": 64.04664,
+  "lon": -145.73573,
+  "name": "Delta Junction Community Center",
+  "precinct": "36-050 Delta Junction"
+ },
+ "36-054 Deltana": {
+  "address": "2287 Deborah Street",
+  "city": "Delta Junction",
+  "lat": 64.04676,
+  "lon": -145.73475,
+  "name": "Delta Junction Community Center",
+  "precinct": "36-054 Deltana"
+ },
+ "36-058 Dot Lake": {
+  "address": "1360 Alaska Highway",
+  "city": "Dot Lake",
+  "lat": 63.66069,
+  "lon": -144.06843,
+  "name": "Dot Lake School",
+  "precinct": "36-058 Dot Lake"
+ },
+ "36-062 Eagle": {
+  "address": "",
+  "city": "Eagle",
+  "lat": 64.78787,
+  "lon": -141.20316,
+  "name": "Eagle Public Library",
+  "precinct": "36-062 Eagle"
+ },
+ "36-066 Fort Yukon": {
+  "address": "E 7th Ave",
+  "city": "Fort Yukon",
+  "lat": 66.56489,
+  "lon": -145.24142,
+  "name": "City of Fort Yukon",
+  "precinct": "36-066 Fort Yukon"
+ },
+ "36-070 Gakona": {
+  "address": "Mile 2.2 Tok Cutoff",
+  "city": "Gakona",
+  "lat": 62.3644,
+  "lon": -145.17374,
+  "name": "Gakona Volunteer Fire Dept",
+  "precinct": "36-070 Gakona"
+ },
+ "36-074 Galena": {
+  "address": "",
+  "city": "Galena",
+  "lat": 64.73424,
+  "lon": -156.93316,
+  "name": "Galena City Hall",
+  "precinct": "36-074 Galena"
+ },
+ "36-078 Glennallen": {
+  "address": "Mile 186 Glenn Highway",
+  "city": "Glennallen",
+  "lat": 62.11014,
+  "lon": -145.55626,
+  "name": "Copper Valley Community Library",
+  "precinct": "36-078 Glennallen"
+ },
+ "36-082 Grayling": {
+  "address": "",
+  "city": "Grayling",
+  "lat": 62.90541,
+  "lon": -160.06573,
+  "name": "Grayling Community Hall",
+  "precinct": "36-082 Grayling"
+ },
+ "36-086 Holy Cross": {
+  "address": "",
+  "city": "Holy Cross",
+  "lat": 62.20153,
+  "lon": -159.77167,
+  "name": "Holy Cross Community Hall",
+  "precinct": "36-086 Holy Cross"
+ },
+ "36-090 Hughes": {
+  "address": "",
+  "city": "Hughes",
+  "lat": 66.04857,
+  "lon": -154.25799,
+  "name": "Hughes Village Office",
+  "precinct": "36-090 Hughes"
+ },
+ "36-094 Huslia": {
+  "address": "",
+  "city": "Huslia",
+  "lat": 65.70209,
+  "lon": -156.38685,
+  "name": "Huslia Community Hall",
+  "precinct": "36-094 Huslia"
+ },
+ "36-098 Kaltag": {
+  "address": "",
+  "city": "Kaltag",
+  "lat": 64.32651,
+  "lon": -158.7254,
+  "name": "Kaltag City Hall",
+  "precinct": "36-098 Kaltag"
+ },
+ "36-102 Kenny Lake": {
+  "address": "",
+  "city": "Kenny Lake",
+  "lat": 61.73598,
+  "lon": -144.95046,
+  "name": "Kenny Lake Community Hall",
+  "precinct": "36-102 Kenny Lake"
+ },
+ "36-106 Koyukuk": {
+  "address": "",
+  "city": "Koyukuk",
+  "lat": 64.88197,
+  "lon": -157.70186,
+  "name": "Koyukuk City Office",
+  "precinct": "36-106 Koyukuk"
+ },
+ "36-110 Manley": {
+  "address": "",
+  "city": "Manley",
+  "lat": 65.0008,
+  "lon": -150.634,
+  "name": "Manley Hot Springs Community Hall",
+  "precinct": "36-110 Manley"
+ },
+ "36-114 McGrath": {
+  "address": "90 Chinana Ave",
+  "city": "McGrath",
+  "lat": 62.94724,
+  "lon": -155.58681,
+  "name": "IASD Museum Transportation Exhibit Hall",
+  "precinct": "36-114 McGrath"
+ },
+ "36-118 Mentasta": {
+  "address": "",
+  "city": "Mentasta Lake",
+  "lat": 62.92931,
+  "lon": -143.79813,
+  "name": "Mentasta Lake School",
+  "precinct": "36-118 Mentasta"
+ },
+ "36-122 Minto": {
+  "address": "",
+  "city": "Minto",
+  "lat": 65.15302,
+  "lon": -149.34457,
+  "name": "Minto Lakeview Lodge",
+  "precinct": "36-122 Minto"
+ },
+ "36-126 Nenana": {
+  "address": "",
+  "city": "Nenana",
+  "lat": 64.55804,
+  "lon": -149.09968,
+  "name": "Nenana Civic Center",
+  "precinct": "36-126 Nenana"
+ },
+ "36-130 Nikolai": {
+  "address": "",
+  "city": "Nikolai",
+  "lat": 63.01292,
+  "lon": -154.37899,
+  "name": "Nikolai City Office",
+  "precinct": "36-130 Nikolai"
+ },
+ "36-134 Northway": {
+  "address": "",
+  "city": "Northway",
+  "lat": 62.96253,
+  "lon": -141.94045,
+  "name": "Northway Community Center",
+  "precinct": "36-134 Northway"
+ },
+ "36-138 Nulato": {
+  "address": "",
+  "city": "Nulato",
+  "lat": 64.73332,
+  "lon": -158.11588,
+  "name": "Nulato Elders Office",
+  "precinct": "36-138 Nulato"
+ },
+ "36-142 Ruby": {
+  "address": "6 Goodtime Rd",
+  "city": "Ruby",
+  "lat": 64.73864,
+  "lon": -155.49024,
+  "name": "Ruby Community Hall",
+  "precinct": "36-142 Ruby"
+ },
+ "36-146 Shageluk": {
+  "address": "",
+  "city": "Shageluk",
+  "lat": 62.65522,
+  "lon": -159.52996,
+  "name": "Shageluk City Building",
+  "precinct": "36-146 Shageluk"
+ },
+ "36-162 Tanana": {
+  "address": "",
+  "city": "Tanana",
+  "lat": 65.17146,
+  "lon": -152.07629,
+  "name": "Tanana City Office",
+  "precinct": "36-162 Tanana"
+ },
+ "36-166 Tetlin": {
+  "address": "",
+  "city": "Tetlin",
+  "lat": 63.13505,
+  "lon": -142.52388,
+  "name": "Tetlin Community Hall",
+  "precinct": "36-166 Tetlin"
+ },
+ "36-170 Tok": {
+  "address": "",
+  "city": "Tok",
+  "lat": 63.33587,
+  "lon": -142.98683,
+  "name": "Tok Senior Center",
+  "precinct": "36-170 Tok"
+ },
+ "36-174 Venetie": {
+  "address": "",
+  "city": "Venetie",
+  "lat": 67.01572,
+  "lon": -146.42074,
+  "name": "Venetie Community Hall",
+  "precinct": "36-174 Venetie"
+ },
+ "37-700 Akutan": {
+  "address": "109 Windy Way",
+  "city": "Akutan",
+  "lat": 54.13445,
+  "lon": -165.77351,
+  "name": "Akutan City Hall",
+  "precinct": "37-700 Akutan"
+ },
+ "37-702 Aleknagik": {
+  "address": "33 Main St",
+  "city": "Aleknagik",
+  "lat": 59.27934,
+  "lon": -158.6208,
+  "name": "Aleknagik City Hall",
+  "precinct": "37-702 Aleknagik"
+ },
+ "37-704 Aleutians No. 1": {
+  "address": "100 Mechanic Rd",
+  "city": "Adak",
+  "lat": 51.86822,
+  "lon": -176.64012,
+  "name": "Bob Reeves High School",
+  "precinct": "37-704 Aleutians No. 1"
+ },
+ "37-706 Aleutians No. 2": {
+  "address": "43 Raven Way",
+  "city": "Unalaska",
+  "lat": 53.87293,
+  "lon": -166.54091,
+  "name": "Unalaska City Hall",
+  "precinct": "37-706 Aleutians No. 2"
+ },
+ "37-707 Aniak": {
+  "address": "1 Community Hall Rd",
+  "city": "Aniak",
+  "lat": 61.58087,
+  "lon": -159.56657,
+  "name": "Aniak Community Hall",
+  "precinct": "37-707 Aniak"
+ },
+ "37-708 Chignik": {
+  "address": "Old Cemetary Rd",
+  "city": "Chignik",
+  "lat": 56.29345,
+  "lon": -158.40537,
+  "name": "Chignik Community Hall",
+  "precinct": "37-708 Chignik"
+ },
+ "37-709 Chuathbaluk": {
+  "address": "Community Center Dr",
+  "city": "Chuathbaluk",
+  "lat": 61.57306,
+  "lon": -159.24448,
+  "name": "Chuathbaluk Community Hall",
+  "precinct": "37-709 Chuathbaluk"
+ },
+ "37-710 Clark's Point": {
+  "address": "Saguyak Ave",
+  "city": "Clark's Point",
+  "lat": 58.83183,
+  "lon": -158.55027,
+  "name": "Clark's Point Village Council Office",
+  "precinct": "37-710 Clark's Point"
+ },
+ "37-712 Cold Bay": {
+  "address": "10 Baranov St",
+  "city": "Cold Bay",
+  "lat": 55.20655,
+  "lon": -162.71311,
+  "name": "Cold Bay Municipal Building",
+  "precinct": "37-712 Cold Bay"
+ },
+ "37-713 Crooked Creek": {
+  "address": "404 Main St",
+  "city": "Crooked Creek",
+  "lat": 61.86999,
+  "lon": -158.10684,
+  "name": "Crooked Creek Village Office",
+  "precinct": "37-713 Crooked Creek"
+ },
+ "37-714 Dillingham": {
+  "address": "141 Main St",
+  "city": "Dillingham",
+  "lat": 59.04011,
+  "lon": -158.45681,
+  "name": "Dillingham City Office",
+  "precinct": "37-714 Dillingham"
+ },
+ "37-716 Egegik": {
+  "address": "189 Airport Rd",
+  "city": "Egegik",
+  "lat": 58.20434,
+  "lon": -157.37148,
+  "name": "Egegik City Hall",
+  "precinct": "37-716 Egegik"
+ },
+ "37-718 Ekwok": {
+  "address": "101 Main St",
+  "city": "Ekwok",
+  "lat": 59.35129,
+  "lon": -157.48118,
+  "name": "Ekwok City Hall",
+  "precinct": "37-718 Ekwok"
+ },
+ "37-719 Goodnews Bay": {
+  "address": "",
+  "city": "Goodnews Bay",
+  "lat": 59.11889,
+  "lon": -161.5875,
+  "name": "City Office Chambers",
+  "precinct": "37-719 Goodnews Bay"
+ },
+ "37-720 King Cove": {
+  "address": "",
+  "city": "King Cove",
+  "lat": 55.05959,
+  "lon": -162.31422,
+  "name": "King Cove Gymnasium",
+  "precinct": "37-720 King Cove"
+ },
+ "37-722 King Salmon": {
+  "address": "Mi .5 King Salmon Heights Rd",
+  "city": "King Salmon",
+  "lat": 58.70424,
+  "lon": -156.70009,
+  "name": "King Salmon Village Council Building",
+  "precinct": "37-722 King Salmon"
+ },
+ "37-724 Koliganek": {
+  "address": "5057 Main Rd",
+  "city": "Koliganek",
+  "lat": 59.72803,
+  "lon": -157.29157,
+  "name": "Koliganek Village Council Building",
+  "precinct": "37-724 Koliganek"
+ },
+ "37-726 Lake Iliamna No. 1": {
+  "address": "",
+  "city": "Newhalen",
+  "lat": 59.72136,
+  "lon": -154.894,
+  "name": "Newhalen City Office",
+  "precinct": "37-726 Lake Iliamna No. 1"
+ },
+ "37-728 Lake Iliamna No. 2": {
+  "address": "2 Bayview Dr",
+  "city": "Kokhanok",
+  "lat": 59.43812,
+  "lon": -154.77368,
+  "name": "Kokhanok Community Hall",
+  "precinct": "37-728 Lake Iliamna No. 2"
+ },
+ "37-730 Levelock": {
+  "address": "",
+  "city": "Levelock",
+  "lat": 59.11254,
+  "lon": -156.85558,
+  "name": "Levelock Rainbow Hall",
+  "precinct": "37-730 Levelock"
+ },
+ "37-731 Lower Kalskag": {
+  "address": "69 Main St",
+  "city": "Kalskag",
+  "lat": 61.53815,
+  "lon": -160.31402,
+  "name": "Lower Kalskag Community Hall",
+  "precinct": "37-731 Lower Kalskag"
+ },
+ "37-732 Manokotak": {
+  "address": "Salmon St",
+  "city": "Manokotak",
+  "lat": 58.97976,
+  "lon": -159.05708,
+  "name": "Manokotak City Office",
+  "precinct": "37-732 Manokotak"
+ },
+ "37-734 Naknek": {
+  "address": "1 Main St",
+  "city": "Naknek",
+  "lat": 58.72803,
+  "lon": -157.01424,
+  "name": "Naknek Community Hall",
+  "precinct": "37-734 Naknek"
+ },
+ "37-736 New Stuyahok": {
+  "address": "3rd St",
+  "city": "New Stuyahok",
+  "lat": 59.45143,
+  "lon": -157.30934,
+  "name": "New Stuyahok City Hall",
+  "precinct": "37-736 New Stuyahok"
+ },
+ "37-738 Nondalton": {
+  "address": "49 Main St",
+  "city": "Nondalton",
+  "lat": 59.97287,
+  "lon": -154.8459,
+  "name": "Nondalton Community Hall",
+  "precinct": "37-738 Nondalton"
+ },
+ "37-740 Pedro Bay": {
+  "address": "2516 Mountain Circle",
+  "city": "Pedro Bay",
+  "lat": 59.78505,
+  "lon": -154.11188,
+  "name": "Pedro Bay Village Council Building",
+  "precinct": "37-740 Pedro Bay"
+ },
+ "37-742 Port Heiden": {
+  "address": "2200 James St",
+  "city": "Port Heiden",
+  "lat": 56.94109,
+  "lon": -158.63019,
+  "name": "Port Heiden Community Building",
+  "precinct": "37-742 Port Heiden"
+ },
+ "37-744 Sand Point": {
+  "address": "249 Main St",
+  "city": "Sand Point",
+  "lat": 55.33603,
+  "lon": -160.50028,
+  "name": "Sand Point City Hall",
+  "precinct": "37-744 Sand Point"
+ },
+ "37-746 Sleetmute": {
+  "address": "109 Main St",
+  "city": "Sleetmute",
+  "lat": 61.70159,
+  "lon": -157.16965,
+  "name": "Sleetmute Community Hall",
+  "precinct": "37-746 Sleetmute"
+ },
+ "37-748 South Naknek": {
+  "address": "113 Airport St",
+  "city": "South Naknek",
+  "lat": 58.71482,
+  "lon": -157.00387,
+  "name": "South Naknek Community Hall",
+  "precinct": "37-748 South Naknek"
+ },
+ "37-750 St. George Island": {
+  "address": "",
+  "city": "St. George Island",
+  "lat": 56.60138,
+  "lon": -169.54705,
+  "name": "St. George City Office",
+  "precinct": "37-750 St. George Island"
+ },
+ "37-752 St. Paul Island": {
+  "address": "100 Gorbatch St",
+  "city": "St. Paul Island",
+  "lat": 57.12132,
+  "lon": -170.28337,
+  "name": "St. Paul City Auditorium",
+  "precinct": "37-752 St. Paul Island"
+ },
+ "37-754 Togiak": {
+  "address": "2nd & G St",
+  "city": "Togiak",
+  "lat": 59.06274,
+  "lon": -160.3751,
+  "name": "Togiak City Office",
+  "precinct": "37-754 Togiak"
+ },
+ "37-756 Tyonek": {
+  "address": "100 A St",
+  "city": "Tyonek",
+  "lat": 61.06663,
+  "lon": -151.13957,
+  "name": "Tyonek Community Hall",
+  "precinct": "37-756 Tyonek"
+ },
+ "37-758 Upper Kalskag": {
+  "address": "",
+  "city": "Kalskag",
+  "lat": 61.53815,
+  "lon": -160.31402,
+  "name": "Multi Facility Building Tribal Office",
+  "precinct": "37-758 Upper Kalskag"
+ },
+ "38-800 Akiachak": {
+  "address": "Main St",
+  "city": "Akiachak",
+  "lat": 60.90039,
+  "lon": -161.42361,
+  "name": "Akiachak Recreation Building",
+  "precinct": "38-800 Akiachak"
+ },
+ "38-802 Akiak": {
+  "address": "",
+  "city": "Akiak",
+  "lat": 60.91109,
+  "lon": -161.22141,
+  "name": "Akiak Community Hall",
+  "precinct": "38-802 Akiak"
+ },
+ "38-806 Atmautluak": {
+  "address": "101 Boardwalk Ln",
+  "city": "Atmautluak",
+  "lat": 60.86297,
+  "lon": -162.27596,
+  "name": "Atmautluak Community Center",
+  "precinct": "38-806 Atmautluak"
+ },
+ "38-808 Bethel No. 1": {
+  "address": "420 Chief Eddie Hoffman Hwy",
+  "city": "Bethel",
+  "lat": 60.79289,
+  "lon": -161.75131,
+  "name": "Yupiit Piciryarait Cultural Center",
+  "precinct": "38-808 Bethel No. 1"
+ },
+ "38-810 Bethel No. 2": {
+  "address": "420 Chief Eddie Hoffman Hwy",
+  "city": "Bethel",
+  "lat": 60.79286,
+  "lon": -161.75024,
+  "name": "Yupiit Piciryarait Cultural Center",
+  "precinct": "38-810 Bethel No. 2"
+ },
+ "38-812 Chefornak": {
+  "address": "101 Complex Dr",
+  "city": "Chefornak",
+  "lat": 60.15778,
+  "lon": -164.27486,
+  "name": "Chefornak Complex Building",
+  "precinct": "38-812 Chefornak"
+ },
+ "38-813 Chevak": {
+  "address": "140 Aurora St",
+  "city": "Chevak",
+  "lat": 61.5329,
+  "lon": -165.58315,
+  "name": "JVP Building",
+  "precinct": "38-813 Chevak"
+ },
+ "38-818 Eek": {
+  "address": "",
+  "city": "Eek",
+  "lat": 60.21484,
+  "lon": -162.02123,
+  "name": "Eek City Office",
+  "precinct": "38-818 Eek"
+ },
+ "38-822 Kasigluk": {
+  "address": "1 Tangerpagcaraq Rd",
+  "city": "Kasigluk",
+  "lat": 60.87152,
+  "lon": -162.52092,
+  "name": "Kasigluk Community Center",
+  "precinct": "38-822 Kasigluk"
+ },
+ "38-824 Kipnuk": {
+  "address": "101 Council Dr",
+  "city": "Kipnuk",
+  "lat": 59.93381,
+  "lon": -164.0405,
+  "name": "Kanganak Community Hall",
+  "precinct": "38-824 Kipnuk"
+ },
+ "38-826 Kongiganak": {
+  "address": "",
+  "city": "Kongiganak",
+  "lat": 59.95327,
+  "lon": -162.89513,
+  "name": "Kongiganak Community Center",
+  "precinct": "38-826 Kongiganak"
+ },
+ "38-828 Kwethluk": {
+  "address": "",
+  "city": "Kwethluk",
+  "lat": 60.81011,
+  "lon": -161.42603,
+  "name": "Kwethluk Former High School",
+  "precinct": "38-828 Kwethluk"
+ },
+ "38-830 Kwigillingok": {
+  "address": "",
+  "city": "Kwigillingok",
+  "lat": 59.86483,
+  "lon": -163.15894,
+  "name": "Kwigillingok Community Hall",
+  "precinct": "38-830 Kwigillingok"
+ },
+ "38-836 Mekoryuk": {
+  "address": "29 Airport Rd",
+  "city": "Mekoryuk",
+  "lat": 60.38373,
+  "lon": -166.22092,
+  "name": "Mekoryuk Old City Office",
+  "precinct": "38-836 Mekoryuk"
+ },
+ "38-838 Napakiak": {
+  "address": "17 Airport Rd",
+  "city": "Napakiak",
+  "lat": 60.6932,
+  "lon": -161.97624,
+  "name": "Napakiak Bingo Hall",
+  "precinct": "38-838 Napakiak"
+ },
+ "38-840 Napaskiak": {
+  "address": "",
+  "city": "Napaskiak",
+  "lat": 60.70525,
+  "lon": -161.76647,
+  "name": "Napaskiak City Office",
+  "precinct": "38-840 Napaskiak"
+ },
+ "38-842 Metarvik": {
+  "address": "",
+  "city": "Metarvik",
+  "lat": 60.80756,
+  "lon": -164.46911,
+  "name": "Metarvik Tribal Office",
+  "precinct": "38-842 Metarvik"
+ },
+ "38-844 Nightmute": {
+  "address": "Changtaq St",
+  "city": "Nightmute",
+  "lat": 60.47713,
+  "lon": -164.72094,
+  "name": "Nightmute City Office",
+  "precinct": "38-844 Nightmute"
+ },
+ "38-846 Nunapitchuk": {
+  "address": "103 Johnsons Loop",
+  "city": "Nunapitchuk",
+  "lat": 60.89705,
+  "lon": -162.45268,
+  "name": "Nunapitchuk IRA Gaming Building",
+  "precinct": "38-846 Nunapitchuk"
+ },
+ "38-848 Quinhagak": {
+  "address": "",
+  "city": "Quinhagak",
+  "lat": 59.74939,
+  "lon": -161.90597,
+  "name": "Quinhagak City Office",
+  "precinct": "38-848 Quinhagak"
+ },
+ "38-852 Toksook Bay": {
+  "address": "",
+  "city": "Toksook",
+  "lat": 60.53151,
+  "lon": -165.10691,
+  "name": "Billy Lincoln Sr Memorial Building",
+  "precinct": "38-852 Toksook Bay"
+ },
+ "38-854 Tuluksak": {
+  "address": "16 Tuluksak Heights",
+  "city": "Tuluksak",
+  "lat": 61.10067,
+  "lon": -160.96016,
+  "name": "Tuluksak Recreation Building",
+  "precinct": "38-854 Tuluksak"
+ },
+ "38-856 Tuntutuliak": {
+  "address": "101 Patluska St",
+  "city": "Tuntutuliak",
+  "lat": 60.34351,
+  "lon": -162.66588,
+  "name": "Tuntutuliak Community Hall",
+  "precinct": "38-856 Tuntutuliak"
+ },
+ "38-858 Tununak": {
+  "address": "77 Main St",
+  "city": "Tununak",
+  "lat": 60.58347,
+  "lon": -165.25826,
+  "name": "Tununak IRA Building",
+  "precinct": "38-858 Tununak"
+ },
+ "39-900 Alakanuk": {
+  "address": "500 Anderson St",
+  "city": "Alakanuk",
+  "lat": 62.68264,
+  "lon": -164.65689,
+  "name": "Alakanuk Community Hall",
+  "precinct": "39-900 Alakanuk"
+ },
+ "39-902 Brevig Mission": {
+  "address": "Clarence Rd",
+  "city": "Brevig Mission",
+  "lat": 65.33174,
+  "lon": -166.48053,
+  "name": "Multi-Purpose Building",
+  "precinct": "39-902 Brevig Mission"
+ },
+ "39-906 Diomede": {
+  "address": "",
+  "city": "Diomede",
+  "lat": 65.75736,
+  "lon": -168.94707,
+  "name": "Diomede City Office",
+  "precinct": "39-906 Diomede"
+ },
+ "39-908 Elim": {
+  "address": "101 Hillside St",
+  "city": "Elim",
+  "lat": 64.61686,
+  "lon": -162.2607,
+  "name": "Elim City Building",
+  "precinct": "39-908 Elim"
+ },
+ "39-910 Emmonak": {
+  "address": "9 Emmonak Rd",
+  "city": "Emmonak",
+  "lat": 62.77598,
+  "lon": -164.52597,
+  "name": "Emmonak Community Center",
+  "precinct": "39-910 Emmonak"
+ },
+ "39-912 Gambell": {
+  "address": "189 Gravel St",
+  "city": "Gambell",
+  "lat": 63.77678,
+  "lon": -171.72613,
+  "name": "Qerngughvik Community Hall",
+  "precinct": "39-912 Gambell"
+ },
+ "39-914 Golovin": {
+  "address": "Amuktoolik St",
+  "city": "Golovin",
+  "lat": 64.54172,
+  "lon": -163.03943,
+  "name": "Golovin Community Hall",
+  "precinct": "39-914 Golovin"
+ },
+ "39-916 Hooper Bay": {
+  "address": "2 Tomaganuk Rd",
+  "city": "Hooper Bay",
+  "lat": 61.52604,
+  "lon": -166.10455,
+  "name": "Brown Council Building",
+  "precinct": "39-916 Hooper Bay"
+ },
+ "39-918 Kotlik": {
+  "address": "5 Curry St",
+  "city": "Kotlik",
+  "lat": 63.03278,
+  "lon": -163.55023,
+  "name": "Kotlik City Office",
+  "precinct": "39-918 Kotlik"
+ },
+ "39-920 Koyuk": {
+  "address": "3rd Ave & Birch Rd",
+  "city": "Koyuk",
+  "lat": 64.93075,
+  "lon": -161.16532,
+  "name": "Koyuk Community Hall",
+  "precinct": "39-920 Koyuk"
+ },
+ "39-921 Marshall": {
+  "address": "3230 Yukon Ave",
+  "city": "Marshall",
+  "lat": 61.88401,
+  "lon": -162.08862,
+  "name": "Marshall City Office",
+  "precinct": "39-921 Marshall"
+ },
+ "39-922 Mountain Village": {
+  "address": "1st St Marys Rd",
+  "city": "Mountain Village",
+  "lat": 62.09019,
+  "lon": -163.72416,
+  "name": "Mountain Village Community Hall",
+  "precinct": "39-922 Mountain Village"
+ },
+ "39-924 Nome No. 1": {
+  "address": "407 Bering St",
+  "city": "Nome",
+  "lat": 64.50003,
+  "lon": -165.40811,
+  "name": "Old St. Joes's Hall",
+  "precinct": "39-924 Nome No. 1"
+ },
+ "39-926 Nome No. 2": {
+  "address": "407 Bering St",
+  "city": "Nome",
+  "lat": 64.49981,
+  "lon": -165.40837,
+  "name": "Old St. Joes's Hall",
+  "precinct": "39-926 Nome No. 2"
+ },
+ "39-928 Nunam Iqua": {
+  "address": "27 Main St",
+  "city": "Nunam Iqua",
+  "lat": 62.53141,
+  "lon": -164.85017,
+  "name": "Nunam Iqua Tribal Hall",
+  "precinct": "39-928 Nunam Iqua"
+ },
+ "39-930 Pilot Station": {
+  "address": "9 Airport Rd",
+  "city": "Pilot",
+  "lat": 61.93713,
+  "lon": -162.89187,
+  "name": "Tutalgaq Community Center",
+  "precinct": "39-930 Pilot Station"
+ },
+ "39-931 Russian Mission": {
+  "address": "5111 Main St",
+  "city": "Russian Mission",
+  "lat": 61.7855,
+  "lon": -161.3233,
+  "name": "Russian Mission City Office",
+  "precinct": "39-931 Russian Mission"
+ },
+ "39-932 Savoonga": {
+  "address": "11 Airport Rd",
+  "city": "Savoonga",
+  "lat": 63.6924,
+  "lon": -170.48518,
+  "name": "Savoonga Municipal Building",
+  "precinct": "39-932 Savoonga"
+ },
+ "39-934 Scammon Bay": {
+  "address": "104 Askinuk Rd",
+  "city": "Scammon Bay",
+  "lat": 61.84231,
+  "lon": -165.58093,
+  "name": "Scammon Bay Traditional Council",
+  "precinct": "39-934 Scammon Bay"
+ },
+ "39-936 Shaktoolik": {
+  "address": "10 Main St",
+  "city": "Shaktoolik",
+  "lat": 64.33389,
+  "lon": -161.15389,
+  "name": "Shaktoolik City Office",
+  "precinct": "39-936 Shaktoolik"
+ },
+ "39-938 Shishmaref": {
+  "address": "",
+  "city": "Shishmaref",
+  "lat": 66.25617,
+  "lon": -166.07265,
+  "name": "Shishmaref City Office Conference Room",
+  "precinct": "39-938 Shishmaref"
+ },
+ "39-940 St. Mary's": {
+  "address": "174 Paukan Ave",
+  "city": "St. Mary's",
+  "lat": 62.05189,
+  "lon": -163.17424,
+  "name": "St. Mary's City Hall",
+  "precinct": "39-940 St. Mary's"
+ },
+ "39-942 St. Michael": {
+  "address": "100 Baker St",
+  "city": "St. Michael",
+  "lat": 63.47806,
+  "lon": -162.03917,
+  "name": "St. Michael City Hall",
+  "precinct": "39-942 St. Michael"
+ },
+ "39-944 Stebbins": {
+  "address": "36 Able St",
+  "city": "Stebbins",
+  "lat": 63.52222,
+  "lon": -162.28806,
+  "name": "Stebbins Community Hall",
+  "precinct": "39-944 Stebbins"
+ },
+ "39-946 Teller": {
+  "address": "Grantley Ave",
+  "city": "Teller",
+  "lat": 65.26288,
+  "lon": -166.36342,
+  "name": "Teller Community/Bingo Hall",
+  "precinct": "39-946 Teller"
+ },
+ "39-948 Unalakleet": {
+  "address": "270 Main St",
+  "city": "Unalakleet",
+  "lat": 63.87883,
+  "lon": -160.79423,
+  "name": "Aaron Paneok Myles Gonangnan Memorial Hall",
+  "precinct": "39-948 Unalakleet"
+ },
+ "39-950 Wales": {
+  "address": "500 Airport Junction Rd",
+  "city": "Wales",
+  "lat": 65.61029,
+  "lon": -168.09109,
+  "name": "Wales Multi Purpose Building",
+  "precinct": "39-950 Wales"
+ },
+ "39-952 White Mountain": {
+  "address": "101 White Mountain Hill Rd",
+  "city": "White Mountain",
+  "lat": 64.68021,
+  "lon": -163.40572,
+  "name": "New Community Building",
+  "precinct": "39-952 White Mountain"
+ },
+ "40-002 Ambler": {
+  "address": "",
+  "city": "Ambler",
+  "lat": 67.08691,
+  "lon": -157.85756,
+  "name": "Ambler Armory Building",
+  "precinct": "40-002 Ambler"
+ },
+ "40-004 Anaktuvuk Pass": {
+  "address": "3031 Main St",
+  "city": "Anaktuvuk",
+  "lat": 68.14217,
+  "lon": -151.73603,
+  "name": "Anaktuvuk Pass Recreation Building",
+  "precinct": "40-004 Anaktuvuk Pass"
+ },
+ "40-006 Atqasuk": {
+  "address": "5010 Ekosik St",
+  "city": "Atqasuk",
+  "lat": 70.48162,
+  "lon": -157.42478,
+  "name": "Atqasuk Community Building",
+  "precinct": "40-006 Atqasuk"
+ },
+ "40-008 Utqiagvik": {
+  "address": "1274 Agvik St",
+  "city": "Utqiagvik",
+  "lat": 71.29206,
+  "lon": -156.78239,
+  "name": "North Slope Borough Building",
+  "precinct": "40-008 Utqiagvik"
+ },
+ "40-010 Browerville": {
+  "address": "5421 North Star St",
+  "city": "Utqiagvik",
+  "lat": 71.29788,
+  "lon": -156.75955,
+  "name": "Inupiat Heritage Center",
+  "precinct": "40-010 Browerville"
+ },
+ "40-012 Buckland": {
+  "address": "49 3rd Ave",
+  "city": "Buckland",
+  "lat": 65.97879,
+  "lon": -161.12879,
+  "name": "Buckland Community Building",
+  "precinct": "40-012 Buckland"
+ },
+ "40-014 Deering": {
+  "address": "59 Main St",
+  "city": "Deering",
+  "lat": 66.07611,
+  "lon": -162.72003,
+  "name": "Deering Community Hall",
+  "precinct": "40-014 Deering"
+ },
+ "40-016 Kaktovik": {
+  "address": "2051 Barter Ave",
+  "city": "Kaktovik",
+  "lat": 70.12724,
+  "lon": -143.61265,
+  "name": "Kaktovik Community Hall",
+  "precinct": "40-016 Kaktovik"
+ },
+ "40-018 Kiana": {
+  "address": "",
+  "city": "Kiana",
+  "lat": 66.96992,
+  "lon": -160.42864,
+  "name": "Kiana City Office",
+  "precinct": "40-018 Kiana"
+ },
+ "40-020 Kivalina": {
+  "address": "",
+  "city": "Kivalina",
+  "lat": 67.72912,
+  "lon": -164.54505,
+  "name": "Kivalina Armory Building",
+  "precinct": "40-020 Kivalina"
+ },
+ "40-022 Kobuk": {
+  "address": "519 Church St",
+  "city": "Kobuk",
+  "lat": 66.90769,
+  "lon": -156.88785,
+  "name": "Kobuk Community Building",
+  "precinct": "40-022 Kobuk"
+ },
+ "40-024 Kotzebue": {
+  "address": "163 Lagoon",
+  "city": "Kotzebue",
+  "lat": 66.89459,
+  "lon": -162.59762,
+  "name": "Northwest Arctic Borough Building",
+  "precinct": "40-024 Kotzebue"
+ },
+ "40-026 Noatak": {
+  "address": "",
+  "city": "Noatak",
+  "lat": 67.57199,
+  "lon": -162.96957,
+  "name": "Noatak IRA Building",
+  "precinct": "40-026 Noatak"
+ },
+ "40-028 Noorvik": {
+  "address": "20 Fireweed Dr",
+  "city": "Noorvik",
+  "lat": 66.83269,
+  "lon": -161.04653,
+  "name": "Noorvik Community Hall",
+  "precinct": "40-028 Noorvik"
+ },
+ "40-030 Nuiqsut": {
+  "address": "2230 2nd Ave",
+  "city": "Nuiqsut",
+  "lat": 70.2173,
+  "lon": -150.9952,
+  "name": "Kisik Community Center",
+  "precinct": "40-030 Nuiqsut"
+ },
+ "40-032 Point Hope": {
+  "address": "530 Qalgi St",
+  "city": "Point Hope",
+  "lat": 68.35049,
+  "lon": -166.74366,
+  "name": "Point Hope City Hall",
+  "precinct": "40-032 Point Hope"
+ },
+ "40-034 Point Lay": {
+  "address": "",
+  "city": "Point Lay",
+  "lat": 69.74097,
+  "lon": -163.01496,
+  "name": "Point Lay Municipal Building",
+  "precinct": "40-034 Point Lay"
+ },
+ "40-036 Selawik": {
+  "address": "",
+  "city": "Selawik",
+  "lat": 66.60091,
+  "lon": -160.01284,
+  "name": "Selawik Community Hall",
+  "precinct": "40-036 Selawik"
+ },
+ "40-038 Shungnak": {
+  "address": "128 Hall St",
+  "city": "Shungnak",
+  "lat": 66.88747,
+  "lon": -157.13887,
+  "name": "Coffee House",
+  "precinct": "40-038 Shungnak"
+ },
+ "40-040 Wainwright": {
+  "address": "",
+  "city": "Wainwright",
+  "lat": 70.63747,
+  "lon": -160.032,
+  "name": "Wainwright City Office",
+  "precinct": "40-040 Wainwright"
+ }
+}

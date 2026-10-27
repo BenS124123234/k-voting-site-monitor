@@ -1,0 +1,2195 @@
+{
+ "Adak | Adak City Office": {
+  "address": "100 Mechanical Street",
+  "city": "Adak",
+  "doe_updated": "September 23, 2026 at 3:55 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm",
+  "name": "Adak City Office"
+ },
+ "Akiachak | Akiachak IRA Office": {
+  "address": "100 Main Street",
+  "city": "Akiachak",
+  "doe_updated": "October 22, 2026 at 11:08 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm",
+  "name": "Akiachak IRA Office"
+ },
+ "Akiak | Akiak City Hall": {
+  "address": "250 Doops Street",
+  "city": "Akiak",
+  "doe_updated": "October 26, 2026 at 12:57 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm",
+  "name": "Akiak City Hall"
+ },
+ "Akutan | Akutan City Office": {
+  "address": "109 Windy Way",
+  "city": "Akutan",
+  "doe_updated": "September 22, 2026 at 1:53 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm",
+  "name": "Akutan City Office"
+ },
+ "Alakanuk | Alakanuk Tribal Council Building": {
+  "address": "no address",
+  "city": "Alakanuk",
+  "doe_updated": "September 22, 2026 at 1:54 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00 am - 5:00 pm",
+  "name": "Alakanuk Tribal Council Building"
+ },
+ "Aleknagik | Native Village of Aleknagik Building": {
+  "address": "Lake Street",
+  "city": "Aleknagik",
+  "doe_updated": "September 22, 2026 at 1:54 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Native Village of Aleknagik Building"
+ },
+ "Allakaket | Allakaket Tribal Council": {
+  "address": "Tribal Council Office",
+  "city": "Allakaket",
+  "doe_updated": "September 16, 2026 at 5:13 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Tuesdays and Thursdays October 20 - October 29 10:00am - 2:00pm",
+  "name": "Allakaket Tribal Council"
+ },
+ "Ambler | Ambler City Office": {
+  "address": "9 Ambler Ave",
+  "city": "Ambler",
+  "doe_updated": "September 22, 2026 at 1:55 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Ambler City Office"
+ },
+ "Anchorage | Anchorage City Hall": {
+  "address": "632 W 6th Ave, Room 105",
+  "city": "Anchorage",
+  "doe_updated": "October 1, 2026 at 3:50 pm",
+  "early_vote_location": true,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 5:00pm Saturday October 24 12:00pm - 3:00pm",
+  "name": "Anchorage City Hall"
+ },
+ "Anchorage | Midtown Mall": {
+  "address": "600 E Northern Lights Blvd",
+  "city": "Anchorage",
+  "doe_updated": "September 16, 2026 at 2:52 pm",
+  "early_vote_location": true,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 5:00pm Saturday October 24 and 31 10:00am - 4:00pm Sunday October 25 and November 1 12:00pm - 4:00pm Tuesday, Election Day November 3 7:00am - 8:00pm",
+  "name": "Midtown Mall"
+ },
+ "Anchorage | South Central Foundation": {
+  "address": "4175 Tudor Centre Drive",
+  "city": "Anchorage",
+  "doe_updated": "September 16, 2026 at 3:01 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday-Friday October 27- November 2 9:00am - 4:00pm",
+  "name": "South Central Foundation"
+ },
+ "Anchorage | Ted Stevens Anchorage International Airport": {
+  "address": "First Floor - level one from the parking garage",
+  "city": "Anchorage",
+  "doe_updated": "September 16, 2026 at 2:57 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Tuesday, Election Day Novemebr 3rd 7:00am - 8:00pm",
+  "name": "Ted Stevens Anchorage International Airport"
+ },
+ "Anchorage | UAA Student Union": {
+  "address": "2921 Spirit Drive",
+  "city": "Anchorage",
+  "doe_updated": "September 16, 2026 at 3:04 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Tuesday, Election Day Novemebr 3rd 7:00am - 8:00pm",
+  "name": "UAA Student Union"
+ },
+ "Angoon | Angoon City Clerk's Office": {
+  "address": "700 Aandeina Street",
+  "city": "Angoon",
+  "doe_updated": "October 10, 2026 at 1:47 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 20 - November 2 9:00am - 4:00pm",
+  "name": "Angoon City Clerk's Office"
+ },
+ "Aniak | Kuspuk School District Office": {
+  "address": "100 Boundary Avenue",
+  "city": "Aniak",
+  "doe_updated": "September 22, 2026 at 1:56 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 4:00pm",
+  "name": "Kuspuk School District Office"
+ },
+ "Anvik | City of Anvik": {
+  "address": "Anvik City Building",
+  "city": "Anvik",
+  "doe_updated": "September 16, 2026 at 5:28 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 20 - November 2 12:00pm - 3:00pm",
+  "name": "City of Anvik"
+ },
+ "Arctic Village | Tribal Council": {
+  "address": "Tribal Office",
+  "city": "Arctic Village",
+  "doe_updated": "September 16, 2026 at 9:47 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Saturdays October 24 and October 31 2:00pm- 4:00pm",
+  "name": "Tribal Council"
+ },
+ "Atka | Atka City Office": {
+  "address": "800 Atxax Way",
+  "city": "Atka",
+  "doe_updated": "September 22, 2026 at 1:56 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Atka City Office"
+ },
+ "Atmautluak | Atmautluak Tribal Council Building": {
+  "address": "101 Boardwalk Lane",
+  "city": "Atmautluak",
+  "doe_updated": "September 17, 2026 at 3:56 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Atmautluak Tribal Council Building"
+ },
+ "Atqasuk | Atqasuk North Slope Borough": {
+  "address": "421 Shugluk Street",
+  "city": "Atqasuk",
+  "doe_updated": "September 17, 2026 at 11:42 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm",
+  "name": "Atqasuk North Slope Borough"
+ },
+ "Beaver | Beaver Village Council": {
+  "address": "Clinton Victor Tribal Council",
+  "city": "Beaver",
+  "doe_updated": "September 16, 2026 at 9:51 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 2:00pm",
+  "name": "Beaver Village Council"
+ },
+ "Bethel | Bethel City Hall": {
+  "address": "300 Chief Eddie Hoffman Hwy",
+  "city": "Bethel",
+  "doe_updated": "October 2, 2026 at 9:07 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 2o - November 2 8:30am - 5:00pm",
+  "name": "Bethel City Hall"
+ },
+ "Bettles Field | Bettles Fire Station": {
+  "address": "",
+  "city": "Bettles Field",
+  "doe_updated": "September 16, 2026 at 9:56 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 2:00pm - 4:00pm",
+  "name": "Bettles Fire Station"
+ },
+ "Birch Creek | Birch Creek Tribal Council": {
+  "address": "Tribal Office",
+  "city": "Birch Creek",
+  "doe_updated": "September 16, 2026 at 9:58 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 12:00pm",
+  "name": "Birch Creek Tribal Council"
+ },
+ "Brevig Mission | Brevig Mission City Office": {
+  "address": "3 Mission Street",
+  "city": "Brevig Mission",
+  "doe_updated": "September 22, 2026 at 1:58 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday August 3-17 9:00 am - 12:00 pm; 1:00 pm - 5:00 pm",
+  "name": "Brevig Mission City Office"
+ },
+ "Buckland | Buckland City Office": {
+  "address": "49 Hillside Road",
+  "city": "Buckland",
+  "doe_updated": "September 17, 2026 at 11:19 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Buckland City Office"
+ },
+ "Chalkyitsik | Chalkyitsik Village Council": {
+  "address": "Village Council Office",
+  "city": "Chalkyitsik",
+  "doe_updated": "October 16, 2026 at 9:42 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - October 23 10:00am - 12:00pm Monday and Tuesday November 2 and 3 10:00am - 12:00pm",
+  "name": "Chalkyitsik Village Council"
+ },
+ "Cherfornak | Cherfornak Tribal Council Building": {
+  "address": "",
+  "city": "Cherfornak",
+  "doe_updated": "September 17, 2026 at 3:06 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 4:00pm",
+  "name": "Cherfornak Tribal Council Building"
+ },
+ "Chevak | Native Village of Chevak Building": {
+  "address": "140 Aurora Street",
+  "city": "Chevak",
+  "doe_updated": "September 17, 2026 at 3:14 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Native Village of Chevak Building"
+ },
+ "Chignik Lagoon | Chignik Lagoon Council Building": {
+  "address": "427 Airport Road",
+  "city": "Chignik Lagoon",
+  "doe_updated": "September 23, 2026 at 3:55 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 3 9:00am - 4:00pm",
+  "name": "Chignik Lagoon Council Building"
+ },
+ "Chignik Lake | Chignik LakeSub Building": {
+  "address": "33 Lake Front Drive",
+  "city": "Chignik Lake",
+  "doe_updated": "September 22, 2026 at 2:00 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Thursday October 19 - November 2 9:00am - 5:00pm",
+  "name": "Chignik LakeSub Building"
+ },
+ "Chistochina | Cheeshna Tribal Council": {
+  "address": "Mile 34 Tok Cutoff",
+  "city": "Chistochina",
+  "doe_updated": "September 16, 2026 at 10:01 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 4:30pm",
+  "name": "Cheeshna Tribal Council"
+ },
+ "Chuathbaluk | Chuathbaluk Traditional Council Building": {
+  "address": "#1 Teen Center Trail",
+  "city": "Chuathbaluk",
+  "doe_updated": "September 22, 2026 at 2:01 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Chuathbaluk Traditional Council Building"
+ },
+ "Circle | Circle Tribal Council": {
+  "address": "Circle",
+  "city": "Circle",
+  "doe_updated": "October 14, 2026 at 1:53 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Mondays, Wednesdays, Fridays October 19 - October 23 1:00pm - 3:00pm",
+  "name": "Circle Tribal Council"
+ },
+ "Clark's Point | Clark's Point Village Council Building": {
+  "address": "114 Swamp Road",
+  "city": "Clark's Point",
+  "doe_updated": "September 22, 2026 at 2:01 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Clark's Point Village Council Building"
+ },
+ "Coffman Cove | Coffman Cove City Clerk's Office": {
+  "address": "310 Harbor Avenue",
+  "city": "Coffman Cove",
+  "doe_updated": "October 19, 2026 at 11:53 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Thursday October 20 - November 2 10:00am - 2:00pm",
+  "name": "Coffman Cove City Clerk's Office"
+ },
+ "Cold Bay | Cold Bay City Office": {
+  "address": "10 Baranov Street",
+  "city": "Cold Bay",
+  "doe_updated": "September 22, 2026 at 2:01 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Cold Bay City Office"
+ },
+ "Coldfoot | Coldfoot Camp": {
+  "address": "Coldfoot Camp (South End Lobby of Hotel)",
+  "city": "Coldfoot",
+  "doe_updated": "October 14, 2026 at 1:50 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Tuesdays and Thursdays October 20 - November 3 4:00pm - 6:00pm",
+  "name": "Coldfoot Camp"
+ },
+ "Copper Center | Native Village of Kluti-Kaah": {
+  "address": "Kluti-Kaah Memorial Hall",
+  "city": "Copper Center",
+  "doe_updated": "September 16, 2026 at 10:21 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 4:00pm",
+  "name": "Native Village of Kluti-Kaah"
+ },
+ "Cordova | The Cordova Center": {
+  "address": "601 First Street",
+  "city": "Cordova",
+  "doe_updated": "October 21, 2026 at 10:09 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 4:00pm",
+  "name": "The Cordova Center"
+ },
+ "Craig | Craig City Clerk's Office": {
+  "address": "500 3rd Street",
+  "city": "Craig",
+  "doe_updated": "September 16, 2026 at 11:20 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday -Friday October 20 - November 2 8:00am - 5:00pm",
+  "name": "Craig City Clerk's Office"
+ },
+ "Crooked Creek | Crooked Creek Traditional Council Building": {
+  "address": "401 Main Street",
+  "city": "Crooked Creek",
+  "doe_updated": "September 22, 2026 at 2:02 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Crooked Creek Traditional Council Building"
+ },
+ "Delta Junction | City of Delta Junction": {
+  "address": "2287 Deborah St",
+  "city": "Delta Junction",
+  "doe_updated": "September 16, 2026 at 10:38 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Tuesday October 20 and 27 12:00pm - 8:00pm Thursday October 22 and 29 12:00pm - 8:00pm",
+  "name": "City of Delta Junction"
+ },
+ "Dillingham | Dillingham City Hall": {
+  "address": "141 Main Street",
+  "city": "Dillingham",
+  "doe_updated": "September 22, 2026 at 2:03 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Dillingham City Hall"
+ },
+ "Diomede | Diomede City Office": {
+  "address": "no address",
+  "city": "Diomede",
+  "doe_updated": "September 22, 2026 at 2:03 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Diomede City Office"
+ },
+ "Eagle River | Eagle River Town Center": {
+  "address": "12001 Business Blvd Room 170",
+  "city": "Eagle River",
+  "doe_updated": "September 16, 2026 at 3:55 pm",
+  "early_vote_location": true,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday-Friday October 19 - November 2 8:00am - 5:00pm",
+  "name": "Eagle River Town Center"
+ },
+ "Eagle | Eagle Village Tribal Council": {
+  "address": "Tribal Council Office",
+  "city": "Eagle",
+  "doe_updated": "September 17, 2026 at 11:47 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 12:00pm - 4:00pm",
+  "name": "Eagle Village Tribal Council"
+ },
+ "Eek | Eek Community Hall": {
+  "address": "1 Council Street",
+  "city": "Eek",
+  "doe_updated": "September 17, 2026 at 3:52 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Eek Community Hall"
+ },
+ "Egegik | Egegik City Hall": {
+  "address": "189 Airport Road",
+  "city": "Egegik",
+  "doe_updated": "September 22, 2026 at 2:04 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Egegik City Hall"
+ },
+ "Ekwok | Ekwok City Hall": {
+  "address": "101 Main Street",
+  "city": "Ekwok",
+  "doe_updated": "October 26, 2026 at 8:16 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Temporary Closure",
+  "name": "Ekwok City Hall"
+ },
+ "Elfin Cove | Elfin Cove Gym": {
+  "address": "",
+  "city": "Elfin Cove",
+  "doe_updated": "September 15, 2026 at 11:39 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Tuesday, Election Day November 3 12:00pm - 4:00pm",
+  "name": "Elfin Cove Gym"
+ },
+ "Elim | Elim City Office": {
+  "address": "101 Hillside Street",
+  "city": "Elim",
+  "doe_updated": "September 22, 2026 at 2:05 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 4:00pm",
+  "name": "Elim City Office"
+ },
+ "Emmonak | City of Emmonak": {
+  "address": "9 Karigak Street",
+  "city": "Emmonak",
+  "doe_updated": "September 22, 2026 at 2:05 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm",
+  "name": "City of Emmonak"
+ },
+ "Fairbanks | Region III Elections Office": {
+  "address": "675 7th Avenue, Suite A2",
+  "city": "Fairbanks",
+  "doe_updated": "September 16, 2026 at 11:00 pm",
+  "early_vote_location": true,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 5:00pm Saturday October 24 and 31 10:00am - 4:00pm Sunday October 25 and November 1 12:00pm - 4:00pm Tuesday, Election Day November 3 7:00am - 8:00pm",
+  "name": "Region III Elections Office"
+ },
+ "Fairbanks | UAF Wood Center": {
+  "address": "1731 S Chandalar Dr",
+  "city": "Fairbanks",
+  "doe_updated": "September 16, 2026 at 11:03 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Tuesday, Election Day November 3rd 7:00am - 8:00pm",
+  "name": "UAF Wood Center"
+ },
+ "False Pass | False Pass Tribal Office": {
+  "address": "180 Unimak Drive",
+  "city": "False Pass",
+  "doe_updated": "September 22, 2026 at 2:05 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 3 10:00am - 12:00pm; 1:00pm - 4:00pm",
+  "name": "False Pass Tribal Office"
+ },
+ "Fort Yukom | City of Fort Yukon": {
+  "address": "",
+  "city": "Fort Yukom",
+  "doe_updated": "October 26, 2026 at 1:30 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Wednesday and Friday October 28 and 30 2:00pm - 4:00pm",
+  "name": "City of Fort Yukon"
+ },
+ "Galena | City of Galena City Office": {
+  "address": "Antoski Avenue",
+  "city": "Galena",
+  "doe_updated": "September 16, 2026 at 11:10 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 4:00pm",
+  "name": "City of Galena City Office"
+ },
+ "Gambell | City of Gambell": {
+  "address": "no address",
+  "city": "Gambell",
+  "doe_updated": "September 22, 2026 at 2:06 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm",
+  "name": "City of Gambell"
+ },
+ "Glennallen | Old Paths Baptist Church": {
+  "address": "Mile 188 Glen Hwy",
+  "city": "Glennallen",
+  "doe_updated": "September 16, 2026 at 11:11 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Mondays, Wednesdays & Fridays October 19 - November 2 1:00pm - 4:00pm",
+  "name": "Old Paths Baptist Church"
+ },
+ "Golovin | City of Golovin Offices": {
+  "address": "1 Amuktoolik Street",
+  "city": "Golovin",
+  "doe_updated": "September 22, 2026 at 2:07 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 4:00pm",
+  "name": "City of Golovin Offices"
+ },
+ "Goodnews Bay | Goodnews Bay Tribal Council Building": {
+  "address": "100 Caribou Lane",
+  "city": "Goodnews Bay",
+  "doe_updated": "October 26, 2026 at 8:15 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Temporary Closure",
+  "name": "Goodnews Bay Tribal Council Building"
+ },
+ "Grayling | Grayling Tribal Hall": {
+  "address": "",
+  "city": "Grayling",
+  "doe_updated": "September 16, 2026 at 11:13 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Wednesdays October 21 and October 28 1:00pm - 4:00pm",
+  "name": "Grayling Tribal Hall"
+ },
+ "Gustavus | Gustavus City Clerk's Office": {
+  "address": "1802 Gustavus Road",
+  "city": "Gustavus",
+  "doe_updated": "September 23, 2026 at 11:42 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Thursday October 19-22, 26-29 & November 2 10:00am - 2:00pm",
+  "name": "Gustavus City Clerk's Office"
+ },
+ "Haines | Haines Borough Clerk's Office": {
+  "address": "103 Third Avenue",
+  "city": "Haines",
+  "doe_updated": "October 15, 2026 at 5:33 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm",
+  "name": "Haines Borough Clerk's Office"
+ },
+ "Healy | Denali Borough Clerk's Office": {
+  "address": "612 Healy Spur Rd STE 202",
+  "city": "Healy",
+  "doe_updated": "September 18, 2026 at 1:44 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday-Thursday October 19 - November 2 9:00am - 4:00pm",
+  "name": "Denali Borough Clerk's Office"
+ },
+ "Hollis | Hollis School": {
+  "address": "101 School Loop Rd",
+  "city": "Hollis",
+  "doe_updated": "September 16, 2026 at 11:24 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Tuesday, Election Day November 3 7:00am - 8:00pm",
+  "name": "Hollis School"
+ },
+ "Homer | Homer City Clerk's Office": {
+  "address": "491 E Pioneer Avenue",
+  "city": "Homer",
+  "doe_updated": "October 21, 2026 at 10:44 am",
+  "early_vote_location": true,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 20 - November 2 9:00am - 4:00pm Monday October 26 9:00am - 3:00pm",
+  "name": "Homer City Clerk's Office"
+ },
+ "Hoonah | Hoonah City Clerk's Office": {
+  "address": "300 Front Street",
+  "city": "Hoonah",
+  "doe_updated": "September 23, 2026 at 11:36 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 20 - November 2 8:00am - 5:00pm",
+  "name": "Hoonah City Clerk's Office"
+ },
+ "Hooper Bay | Hooper Bay Traditional Council Building": {
+  "address": "2006 Airport Road",
+  "city": "Hooper Bay",
+  "doe_updated": "September 22, 2026 at 2:08 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Hooper Bay Traditional Council Building"
+ },
+ "Houston | City of Houston Office": {
+  "address": "13878 W Armstrong Road",
+  "city": "Houston",
+  "doe_updated": "October 14, 2026 at 2:01 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm",
+  "name": "City of Houston Office"
+ },
+ "Hughes | Hughes Village Council": {
+  "address": "Hughes Council Office",
+  "city": "Hughes",
+  "doe_updated": "October 22, 2026 at 12:31 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Wednesdays October 21 10:00am - 12:00pm Monday October 26 9:00am to 12:00pm",
+  "name": "Hughes Village Council"
+ },
+ "Huslia | City of Huslia": {
+  "address": "Huslia City Office",
+  "city": "Huslia",
+  "doe_updated": "September 16, 2026 at 11:19 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 20 - November 2 1:00pm - 5:00pm",
+  "name": "City of Huslia"
+ },
+ "Hydaburg | Hydaburg City Clerk's Office": {
+  "address": "8th Street Extension",
+  "city": "Hydaburg",
+  "doe_updated": "October 19, 2026 at 1:07 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 20 - November 2 9:00am - 4:30pm",
+  "name": "Hydaburg City Clerk's Office"
+ },
+ "Hyder | Hyder Public Library": {
+  "address": "50 Main St",
+  "city": "Hyder",
+  "doe_updated": "September 15, 2026 at 10:28 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Tuesday, Election Day November 3 7:00am - 8:00pm",
+  "name": "Hyder Public Library"
+ },
+ "Igiugig | Igiugig Village Council Building": {
+  "address": "1 Airport Way",
+  "city": "Igiugig",
+  "doe_updated": "September 22, 2026 at 2:08 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 3 9:00am - 5:00pm",
+  "name": "Igiugig Village Council Building"
+ },
+ "Juneau | Region I Elections Office": {
+  "address": "Mendenhall Mall Annex",
+  "city": "Juneau",
+  "doe_updated": "September 16, 2026 at 1:18 pm",
+  "early_vote_location": true,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 3 8:00am - 5:00pm Saturdays October 24 and 31 10:00am - 4:00pm Sundays October 25 and November 1 12:00pm - 4:00pm Tuesday, Election Day November 3 7:00am-8:00pm",
+  "name": "Region I Elections Office"
+ },
+ "Juneau | State Office Building": {
+  "address": "333 Willoughby Avenue, 8th Floor",
+  "city": "Juneau",
+  "doe_updated": "September 16, 2026 at 1:19 pm",
+  "early_vote_location": true,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 5:00pm",
+  "name": "State Office Building"
+ },
+ "Kaktovik | Kaktovik City Clerk's Office": {
+  "address": "2051 Barter Ave",
+  "city": "Kaktovik",
+  "doe_updated": "September 17, 2026 at 11:15 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00=pm - 5:00pm",
+  "name": "Kaktovik City Clerk's Office"
+ },
+ "Kaltag | City of Kaltag": {
+  "address": "Kaltag City Office",
+  "city": "Kaltag",
+  "doe_updated": "September 16, 2026 at 11:20 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm",
+  "name": "City of Kaltag"
+ },
+ "Kasaan | Kasaan City Office": {
+  "address": "Eastern Prince Of Wales Island",
+  "city": "Kasaan",
+  "doe_updated": "September 16, 2026 at 11:50 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Tuesdays and Thursdays October 20, 22, 27, 29 10am - 12:00pm",
+  "name": "Kasaan City Office"
+ },
+ "Kasigluk | Akiuk Memorial School Office": {
+  "address": "104 Village Road",
+  "city": "Kasigluk",
+  "doe_updated": "September 17, 2026 at 3:17 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 4:00pm",
+  "name": "Akiuk Memorial School Office"
+ },
+ "Kenai | Region V Elections Office": {
+  "address": "11312 Kenai Spur Rd. Ste. 24",
+  "city": "Kenai",
+  "doe_updated": "September 18, 2026 at 1:50 pm",
+  "early_vote_location": true,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 5:00pm Saturday October 24 and 31 10:00am - 4:00pm Sunday October 25 and November 1 12:00pm - 4:00pm",
+  "name": "Region V Elections Office"
+ },
+ "Ketchikan | Gateway Recreation Center": {
+  "address": "601 Schoenbar Rd",
+  "city": "Ketchikan",
+  "doe_updated": "October 12, 2026 at 9:27 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 5:00pm",
+  "name": "Gateway Recreation Center"
+ },
+ "Kiana | Kiana City Clerk's Office": {
+  "address": "Casonoff Street",
+  "city": "Kiana",
+  "doe_updated": "September 17, 2026 at 11:14 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Kiana City Clerk's Office"
+ },
+ "King Cove | King Cove City Office": {
+  "address": "37 Main Street",
+  "city": "King Cove",
+  "doe_updated": "September 22, 2026 at 2:10 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "King Cove City Office"
+ },
+ "King Salmon | SAVEC Building": {
+  "address": "123 Thelma Road",
+  "city": "King Salmon",
+  "doe_updated": "September 22, 2026 at 2:10 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:30am - 4:00pm",
+  "name": "SAVEC Building"
+ },
+ "Kipnuk | Chief Paul Memorial School": {
+  "address": "",
+  "city": "Kipnuk",
+  "doe_updated": "October 22, 2026 at 11:08 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Tuesday through Tuesday, No Weekends. October 27 - November 3 10:00am to 2:00pm",
+  "name": "Chief Paul Memorial School"
+ },
+ "Kivalina | City of Kivalina's Conference Room": {
+  "address": "79 Bering Street",
+  "city": "Kivalina",
+  "doe_updated": "September 17, 2026 at 11:32 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 1:00pm - 5:00pm",
+  "name": "City of Kivalina's Conference Room"
+ },
+ "Klawock | Klawock City Clerk's Office": {
+  "address": "550 Summit Street",
+  "city": "Klawock",
+  "doe_updated": "October 19, 2026 at 1:07 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 20 - November 2 8:00am - 5:00pm",
+  "name": "Klawock City Clerk's Office"
+ },
+ "Klukwan | Chilkat Indian Village Office": {
+  "address": "32 Chilkat Avenue",
+  "city": "Klukwan",
+  "doe_updated": "September 16, 2026 at 12:57 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 1:00pm - 3:00pm",
+  "name": "Chilkat Indian Village Office"
+ },
+ "Kobuk | City of Kobuk Assembly Room": {
+  "address": "20 Church Street",
+  "city": "Kobuk",
+  "doe_updated": "September 17, 2026 at 11:20 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "City of Kobuk Assembly Room"
+ },
+ "Kodiak | Kodiak Island Borough Assembly Chambers": {
+  "address": "710 Mill Bay Road",
+  "city": "Kodiak",
+  "doe_updated": "September 16, 2026 at 1:06 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 4:00pm",
+  "name": "Kodiak Island Borough Assembly Chambers"
+ },
+ "Kokhanok | Kokhanok Village Council Building": {
+  "address": "2 Bayshore Drive",
+  "city": "Kokhanok",
+  "doe_updated": "September 22, 2026 at 2:10 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Kokhanok Village Council Building"
+ },
+ "Koliganek | New Koliganek Village Council Building": {
+  "address": "5057 Main Road",
+  "city": "Koliganek",
+  "doe_updated": "September 22, 2026 at 2:11 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "New Koliganek Village Council Building"
+ },
+ "Kongiganek | Kongiganak Community Center": {
+  "address": "150 West Multipurpose Room",
+  "city": "Kongiganek",
+  "doe_updated": "October 26, 2026 at 8:17 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Temporary Closure",
+  "name": "Kongiganak Community Center"
+ },
+ "Kotlik | Kotlik City Hall": {
+  "address": "Curry Street",
+  "city": "Kotlik",
+  "doe_updated": "September 22, 2026 at 2:11 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Kotlik City Hall"
+ },
+ "Kotzebue | Northwest Arctic Borough Clerk's Office": {
+  "address": "163 Lagoon Street",
+  "city": "Kotzebue",
+  "doe_updated": "October 14, 2026 at 6:13 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 20 - November 2 8:00am - 12:00pm; 1:00pm - 4:30pm",
+  "name": "Northwest Arctic Borough Clerk's Office"
+ },
+ "Koyuk | Koyuk City Clerk's Office": {
+  "address": "3rd & Birch Street",
+  "city": "Koyuk",
+  "doe_updated": "September 22, 2026 at 2:14 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 12:00pm; 1:00pm - 4:00pm",
+  "name": "Koyuk City Clerk's Office"
+ },
+ "Koyukuk | City of Koyukuk": {
+  "address": "Koyukuk City Office",
+  "city": "Koyukuk",
+  "doe_updated": "September 16, 2026 at 11:22 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Wednesdays October 21 and October 28 1:00pm - 3:00pm",
+  "name": "City of Koyukuk"
+ },
+ "Kwethluk | Kwethluk City Office": {
+  "address": "254 4th Street",
+  "city": "Kwethluk",
+  "doe_updated": "September 17, 2026 at 3:12 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm",
+  "name": "Kwethluk City Office"
+ },
+ "Larsen Bay | Larsen Bay City Clerk's Office": {
+  "address": "",
+  "city": "Larsen Bay",
+  "doe_updated": "September 16, 2026 at 1:08 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 1:00PM-4:00PM",
+  "name": "Larsen Bay City Clerk's Office"
+ },
+ "Manokotak | Manokotak Village Council Building": {
+  "address": "263 Birch Street",
+  "city": "Manokotak",
+  "doe_updated": "September 22, 2026 at 2:14 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm",
+  "name": "Manokotak Village Council Building"
+ },
+ "Marshall | City of Marshall": {
+  "address": "1104 Yukon Ave",
+  "city": "Marshall",
+  "doe_updated": "September 22, 2026 at 2:15 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 4:00pm",
+  "name": "City of Marshall"
+ },
+ "McGrath | City of McGrath City Office": {
+  "address": "F Street",
+  "city": "McGrath",
+  "doe_updated": "September 16, 2026 at 11:24 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 3:00pm",
+  "name": "City of McGrath City Office"
+ },
+ "Mekoryuk | Mekoryuk City Office": {
+  "address": "101 Airport Road",
+  "city": "Mekoryuk",
+  "doe_updated": "October 26, 2026 at 2:28 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Mekoryuk City Office"
+ },
+ "Mertarvik | Mertarvik Tribal Office": {
+  "address": "no address",
+  "city": "Mertarvik",
+  "doe_updated": "October 26, 2026 at 10:36 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Temporary Closure",
+  "name": "Mertarvik Tribal Office"
+ },
+ "Metlakatla | Metlakatla Council Chambers": {
+  "address": "900 Milton St",
+  "city": "Metlakatla",
+  "doe_updated": "September 15, 2026 at 11:10 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday, Wednesday, Friday Oct. 19, 21, 23, 26, 28, 30 & Nov. 2 10:00am - 2:00pm",
+  "name": "Metlakatla Council Chambers"
+ },
+ "Mountain Village | City of Mountain Village": {
+  "address": "1 St. Mary's Hwy",
+  "city": "Mountain Village",
+  "doe_updated": "September 22, 2026 at 2:15 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 4:00pm",
+  "name": "City of Mountain Village"
+ },
+ "Naknek | Bristol Bay Borough Building": {
+  "address": "1 Main Street",
+  "city": "Naknek",
+  "doe_updated": "September 22, 2026 at 2:15 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 4:00pm",
+  "name": "Bristol Bay Borough Building"
+ },
+ "Nanwalek | Nanwalek IRA Office/Community Center": {
+  "address": "100 Nikita Street",
+  "city": "Nanwalek",
+  "doe_updated": "September 25, 2026 at 2:03 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm Tuesday, Election Day November 3rd 9:000am - 8:00pm",
+  "name": "Nanwalek IRA Office/Community Center"
+ },
+ "Napakiak | Napakiak City Office": {
+  "address": "26 Kusko Road",
+  "city": "Napakiak",
+  "doe_updated": "September 17, 2026 at 3:59 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Napakiak City Office"
+ },
+ "Napaskiak | City of Napaskiak Bingo Hall": {
+  "address": "6109 Main Street",
+  "city": "Napaskiak",
+  "doe_updated": "October 26, 2026 at 10:55 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 12:00pm; 1:00pm - 4:00pm.",
+  "name": "City of Napaskiak Bingo Hall"
+ },
+ "Naukati | Naukati General Store": {
+  "address": "Lot 2 Block 3",
+  "city": "Naukati",
+  "doe_updated": "September 16, 2026 at 11:17 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Tuesday, Election Day November 3 7:00am - 8:00pm",
+  "name": "Naukati General Store"
+ },
+ "Nelson Lagoon | Nelson Lagoon Community Center": {
+  "address": "no address",
+  "city": "Nelson Lagoon",
+  "doe_updated": "September 22, 2026 at 2:16 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 1:00pm - 3:00pm",
+  "name": "Nelson Lagoon Community Center"
+ },
+ "Nenana | City of Nenana City Office": {
+  "address": "723 A St",
+  "city": "Nenana",
+  "doe_updated": "September 16, 2026 at 11:25 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Thursday October 19 - November 2 10:00am - 2:00pm",
+  "name": "City of Nenana City Office"
+ },
+ "Newhalen | Newhalen City Office": {
+  "address": "101 Fire Lane Drive",
+  "city": "Newhalen",
+  "doe_updated": "October 26, 2026 at 9:17 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 1:00pm - 4:00pm",
+  "name": "Newhalen City Office"
+ },
+ "Nikolai | Nikolai Edzeno Village Council": {
+  "address": "",
+  "city": "Nikolai",
+  "doe_updated": "September 16, 2026 at 11:48 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 1:00pm",
+  "name": "Nikolai Edzeno Village Council"
+ },
+ "Nikolski | Nikolski Community Center": {
+  "address": "105 Lakeview Road",
+  "city": "Nikolski",
+  "doe_updated": "September 22, 2026 at 2:18 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 3 9:00am - 5:00pm",
+  "name": "Nikolski Community Center"
+ },
+ "Nome | Region IV Elections Office": {
+  "address": "214 Front Street, Suite 130",
+  "city": "Nome",
+  "doe_updated": "September 17, 2026 at 11:43 pm",
+  "early_vote_location": true,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 5:00pm Saturday October 24 and 31 10:00am - 4:00pm Sunday October 25 and November 1 12:00pm - 4:00pm Tuesday, Election Day November 3 7:00am-8:00pm",
+  "name": "Region IV Elections Office"
+ },
+ "Nondalton | Nondalton City Office": {
+  "address": "888 Boundary Street",
+  "city": "Nondalton",
+  "doe_updated": "September 22, 2026 at 2:19 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Nondalton City Office"
+ },
+ "Noorvik | City of Noorvik": {
+  "address": "20 Fireweed Drive",
+  "city": "Noorvik",
+  "doe_updated": "October 14, 2026 at 6:12 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 20 - November 2 12:00pm - 5:00pm",
+  "name": "City of Noorvik"
+ },
+ "Northway | Northway Village Council": {
+  "address": "Council Office",
+  "city": "Northway",
+  "doe_updated": "October 19, 2026 at 1:13 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Thursday October 19 - November 2 9:00am - 3:00pm",
+  "name": "Northway Village Council"
+ },
+ "Nuiqsut | Nuiqsut City Hall": {
+  "address": "2230 2nd Aved",
+  "city": "Nuiqsut",
+  "doe_updated": "September 17, 2026 at 11:38 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Nuiqsut City Hall"
+ },
+ "Nunam Iqua | Native Village of Nunam Iqua": {
+  "address": "27 Nunam Iqua Road",
+  "city": "Nunam Iqua",
+  "doe_updated": "October 26, 2026 at 4:57 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 4:30 pm - 7:00 pm",
+  "name": "Native Village of Nunam Iqua"
+ },
+ "Nunapitchuk | Nunapitchuk IRA Duplex": {
+  "address": "70 Johnson's Loop",
+  "city": "Nunapitchuk",
+  "doe_updated": "October 26, 2026 at 2:39 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 4:00pm",
+  "name": "Nunapitchuk IRA Duplex"
+ },
+ "Oscarville | Oscarville Tribal Council Building": {
+  "address": "101 River Way",
+  "city": "Oscarville",
+  "doe_updated": "September 17, 2026 at 2:58 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Oscarville Tribal Council Building"
+ },
+ "Ouzinkie | Ouzinkie Clerk's Office": {
+  "address": "3rd and C Street",
+  "city": "Ouzinkie",
+  "doe_updated": "October 19, 2026 at 1:08 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 20 - November 2 9:00am - 12:00pm and 1:00pm - 3:00pm",
+  "name": "Ouzinkie Clerk's Office"
+ },
+ "Palmer | Mat-Su Borough Building": {
+  "address": "350 E Dahlia Avenue",
+  "city": "Palmer",
+  "doe_updated": "October 12, 2026 at 11:35 am",
+  "early_vote_location": true,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 5:00pm",
+  "name": "Mat-Su Borough Building"
+ },
+ "Pedro Bay | Pedro Bay Village Council Building": {
+  "address": "2510 Mountain Circle",
+  "city": "Pedro Bay",
+  "doe_updated": "October 26, 2026 at 8:40 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Thursday October 26 -October 29 9:00am - 3:30pm Friday October 30 9:00am - 1:30pm",
+  "name": "Pedro Bay Village Council Building"
+ },
+ "Pelican | Pelican City Clerk's Office": {
+  "address": "Salmon Way",
+  "city": "Pelican",
+  "doe_updated": "September 23, 2026 at 11:40 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 20 - November 2 8:00am - 3:30pm",
+  "name": "Pelican City Clerk's Office"
+ },
+ "Perryville | Native Village of Perryville Building": {
+  "address": "101 1st Street",
+  "city": "Perryville",
+  "doe_updated": "September 22, 2026 at 2:55 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 3 8:30pm - 4:00pm",
+  "name": "Native Village of Perryville Building"
+ },
+ "Petersburg | Municipal Training Room": {
+  "address": "12 South Nordic Drive",
+  "city": "Petersburg",
+  "doe_updated": "September 23, 2026 at 11:40 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 20 - November 2 11:00am - 4:00pm",
+  "name": "Municipal Training Room"
+ },
+ "Pilot Point | Pilot Point City Hall": {
+  "address": "2500 Main Street",
+  "city": "Pilot Point",
+  "doe_updated": "September 22, 2026 at 3:17 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 3 12:00pm - 4:00pm",
+  "name": "Pilot Point City Hall"
+ },
+ "Pilot Station | Pilot Station Traditional Council Building": {
+  "address": "119 Main Airport Road",
+  "city": "Pilot Station",
+  "doe_updated": "September 22, 2026 at 3:17 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Pilot Station Traditional Council Building"
+ },
+ "Pitka's Point | Pikta's Point Tribal Council Building": {
+  "address": "36 Riverfront Road",
+  "city": "Pitka's Point",
+  "doe_updated": "September 22, 2026 at 3:17 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 3 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Pikta's Point Tribal Council Building"
+ },
+ "Platinum | Platinum Tribal Council": {
+  "address": "1 Small Creek",
+  "city": "Platinum",
+  "doe_updated": "September 22, 2026 at 3:18 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Platinum Tribal Council"
+ },
+ "Point Hope | City of Point Hope": {
+  "address": "750 Tasiq Street",
+  "city": "Point Hope",
+  "doe_updated": "September 17, 2026 at 11:35 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "City of Point Hope"
+ },
+ "Port Alexander | Bear Hall Community Center": {
+  "address": "",
+  "city": "Port Alexander",
+  "doe_updated": "September 16, 2026 at 12:43 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Mondays October 19, 29 & Nov 2 9:00am - 2:00pm",
+  "name": "Bear Hall Community Center"
+ },
+ "Port Alsworth | Ledford Residence": {
+  "address": "1 Flight Line Road",
+  "city": "Port Alsworth",
+  "doe_updated": "September 22, 2026 at 3:18 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 3 8:30am - 12:00pm; 1:00pm - 3:30pm",
+  "name": "Ledford Residence"
+ },
+ "Port Graham | Port Graham Community Hall": {
+  "address": "63795 Graham Road",
+  "city": "Port Graham",
+  "doe_updated": "September 22, 2026 at 3:18 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 3 9:00am - 12:00pm & 1:00pm - 3:00pm",
+  "name": "Port Graham Community Hall"
+ },
+ "Port Heiden | Port Heiden Village Office": {
+  "address": "2200 James Street",
+  "city": "Port Heiden",
+  "doe_updated": "September 22, 2026 at 3:19 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Port Heiden Village Office"
+ },
+ "Port Lions | Port Lions Clerk's Office": {
+  "address": "207 Spruce Drive",
+  "city": "Port Lions",
+  "doe_updated": "September 16, 2026 at 1:12 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 2:00 pm",
+  "name": "Port Lions Clerk's Office"
+ },
+ "Prudhoe Bay | Service Area 10 Camp Building 8": {
+  "address": "1234 Drillsite Road",
+  "city": "Prudhoe Bay",
+  "doe_updated": "September 18, 2026 at 1:47 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Saturday October 31 11:00am 5:00pm Sunday November 1 8:00am - 5:00pm Mon-Tues November 2 and 3 8:00am-8:00pm",
+  "name": "Service Area 10 Camp Building 8"
+ },
+ "Quinhagak | Quinhagak City Office": {
+  "address": "75 Qanrituuq Drive",
+  "city": "Quinhagak",
+  "doe_updated": "October 26, 2026 at 9:19 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00 am - 12:00 pm, 1:00pm - 4:00pm",
+  "name": "Quinhagak City Office"
+ },
+ "Rampart | Rampart Village Council": {
+  "address": "101 First Street",
+  "city": "Rampart",
+  "doe_updated": "October 26, 2026 at 12:57 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Thursday October 29 11:00am - 1:00pm",
+  "name": "Rampart Village Council"
+ },
+ "Ruby | City of Ruby": {
+  "address": "Ruby City Office",
+  "city": "Ruby",
+  "doe_updated": "September 16, 2026 at 11:59 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Thursday October 22 11:00am - 1:00pm Friday October 23 11:00am - 1:00pm",
+  "name": "City of Ruby"
+ },
+ "Russian Mission | Russian Mission City Office Building": {
+  "address": "5111 Main Street",
+  "city": "Russian Mission",
+  "doe_updated": "September 22, 2026 at 3:19 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Russian Mission City Office Building"
+ },
+ "Sand Point | Sand Point City Hall": {
+  "address": "249 Main Street",
+  "city": "Sand Point",
+  "doe_updated": "October 15, 2026 at 5:34 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 20 - October 28 8:30 am - 4:30 pm",
+  "name": "Sand Point City Hall"
+ },
+ "Savoonga | Savoonga City Office": {
+  "address": "11 Airport Road",
+  "city": "Savoonga",
+  "doe_updated": "September 22, 2026 at 3:20 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Savoonga City Office"
+ },
+ "Scammon Bay | Scammon Bay Tribal Council Building": {
+  "address": "103 Askunuk Road",
+  "city": "Scammon Bay",
+  "doe_updated": "October 26, 2026 at 10:19 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Temporary Closure",
+  "name": "Scammon Bay Tribal Council Building"
+ },
+ "Selawik | Selawik City Office": {
+  "address": "99 North Tundra Street",
+  "city": "Selawik",
+  "doe_updated": "September 17, 2026 at 11:31 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Selawik City Office"
+ },
+ "Seldovia | Seldovia City Clerk's Office": {
+  "address": "245 Dock Street",
+  "city": "Seldovia",
+  "doe_updated": "September 16, 2026 at 1:16 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 3:00pm",
+  "name": "Seldovia City Clerk's Office"
+ },
+ "Seward | Seward City Clerk's Office": {
+  "address": "410 Adams Street",
+  "city": "Seward",
+  "doe_updated": "September 16, 2026 at 1:24 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 20 - November 2 8:30am - 4:30pm",
+  "name": "Seward City Clerk's Office"
+ },
+ "Shageluk | City of Shageluk": {
+  "address": "City Office",
+  "city": "Shageluk",
+  "doe_updated": "September 16, 2026 at 11:56 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Friday October 23 2:00pm - 4:00pm",
+  "name": "City of Shageluk"
+ },
+ "Shaktoolik | Shaktoolik City Hall": {
+  "address": "10 Main Street",
+  "city": "Shaktoolik",
+  "doe_updated": "September 22, 2026 at 3:31 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 12:00pm; 1:00pm - 4:00pm",
+  "name": "Shaktoolik City Hall"
+ },
+ "Shishmaref | Shishmaref City Office": {
+  "address": "1 Seaview Lane",
+  "city": "Shishmaref",
+  "doe_updated": "September 22, 2026 at 3:31 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Shishmaref City Office"
+ },
+ "Shungnak | Shungnak IRA Office": {
+  "address": "64 Andy Lane",
+  "city": "Shungnak",
+  "doe_updated": "September 17, 2026 at 11:26 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Shungnak IRA Office"
+ },
+ "Sitka | Harrigan Centennial Hall": {
+  "address": "330 Harbor Dr",
+  "city": "Sitka",
+  "doe_updated": "September 23, 2026 at 11:41 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 20 - November 2 10:00am - 4:00pm",
+  "name": "Harrigan Centennial Hall"
+ },
+ "Skagway | Skagway Municipal Clerk's Office": {
+  "address": "700 Spring Street",
+  "city": "Skagway",
+  "doe_updated": "September 16, 2026 at 12:59 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 20 - November 2 9:00am - 5:00pm",
+  "name": "Skagway Municipal Clerk's Office"
+ },
+ "Sleetmute | Sleetmute Community Building": {
+  "address": "Main Street",
+  "city": "Sleetmute",
+  "doe_updated": "September 22, 2026 at 3:32 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Sleetmute Community Building"
+ },
+ "South Naknek | South Naknek Recreational Hall": {
+  "address": "13 Airport Street",
+  "city": "South Naknek",
+  "doe_updated": "September 22, 2026 at 3:32 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "South Naknek Recreational Hall"
+ },
+ "South Thorne Bay | Davidson Landing Harbor": {
+  "address": "Tract A - Thorne Bay Road",
+  "city": "South Thorne Bay",
+  "doe_updated": "September 16, 2026 at 12:46 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Tuesday, Election Day November 3 7:00am - 6:00pm",
+  "name": "Davidson Landing Harbor"
+ },
+ "St. George | St. George City Office": {
+  "address": "100 Waterfront Street",
+  "city": "St. George",
+  "doe_updated": "September 22, 2026 at 3:33 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "St. George City Office"
+ },
+ "St. Mary's | St. Mary's City Office": {
+  "address": "174 Paukan Ave",
+  "city": "St. Mary's",
+  "doe_updated": "September 22, 2026 at 3:34 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "St. Mary's City Office"
+ },
+ "St. Michael | St. Michael City Office": {
+  "address": "100 Baker Street",
+  "city": "St. Michael",
+  "doe_updated": "September 22, 2026 at 3:35 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm",
+  "name": "St. Michael City Office"
+ },
+ "St. Paul | City of St. Paul Island": {
+  "address": "950 Gorbatch Street",
+  "city": "St. Paul",
+  "doe_updated": "September 22, 2026 at 3:35 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 4:00pm",
+  "name": "City of St. Paul Island"
+ },
+ "Stebbins | City of Stebbins": {
+  "address": "1 Main Street",
+  "city": "Stebbins",
+  "doe_updated": "September 22, 2026 at 3:35 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "City of Stebbins"
+ },
+ "Talkeetna | Talkeetna Public Library": {
+  "address": "24645 S Talkeetna Spur Road",
+  "city": "Talkeetna",
+  "doe_updated": "September 17, 2026 at 12:11 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Saturday October 19 - November 2 11:00am - 6:00pm",
+  "name": "Talkeetna Public Library"
+ },
+ "Tanana | City of Tanana": {
+  "address": "City Office",
+  "city": "Tanana",
+  "doe_updated": "October 19, 2026 at 1:12 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday and Tuesdays October 20, 26, 27 & November 2 11:00am - 1:00pm",
+  "name": "City of Tanana"
+ },
+ "Teller | Teller City Hall": {
+  "address": "100 Airport Ave",
+  "city": "Teller",
+  "doe_updated": "September 22, 2026 at 3:37 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Teller City Hall"
+ },
+ "Tenakee Springs | Tenakee City Clerk's Office": {
+  "address": "Tenakee Avenue",
+  "city": "Tenakee Springs",
+  "doe_updated": "September 16, 2026 at 12:48 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Wednesday October 19-21, 26-28 & November 2 10:00am - 1:00pm",
+  "name": "Tenakee City Clerk's Office"
+ },
+ "Thorne Bay | Thorne Bay City Clerk's Office": {
+  "address": "120 Freeman Drive",
+  "city": "Thorne Bay",
+  "doe_updated": "October 12, 2026 at 11:36 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Thursday October 20-22, 26-29 & November 2 9:00am - 4:00pm",
+  "name": "Thorne Bay City Clerk's Office"
+ },
+ "Togiak | Togiak City Office": {
+  "address": "2nd & G Street",
+  "city": "Togiak",
+  "doe_updated": "September 22, 2026 at 3:37 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm",
+  "name": "Togiak City Office"
+ },
+ "Tok | Tok Library": {
+  "address": "Mile 1314 Alaska Highway",
+  "city": "Tok",
+  "doe_updated": "October 16, 2026 at 9:40 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Wednesday - Monday October 21 - November 2 12:00pm - 4:00pm Closed Tuesday",
+  "name": "Tok Library"
+ },
+ "Toksook Bay | Nunakauyarmiut Council Building": {
+  "address": "122 Sunny Street",
+  "city": "Toksook Bay",
+  "doe_updated": "September 17, 2026 at 4:25 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Nunakauyarmiut Council Building"
+ },
+ "Trapper Creek | Trapper Creek Public Library": {
+  "address": "8901 E Devonshire Drive",
+  "city": "Trapper Creek",
+  "doe_updated": "September 17, 2026 at 12:14 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday and Wednesday October 19, 21, 26, 28 11:00am - 6:00pm Thursday October 22 and 29 10:00am - 3:00pm Saturday October 24 and October 31 12:00pm - 6:00pm",
+  "name": "Trapper Creek Public Library"
+ },
+ "Tuluksak | Tuluksak Native Community Center": {
+  "address": "23 Tuluksak Heights",
+  "city": "Tuluksak",
+  "doe_updated": "September 17, 2026 at 3:54 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Tuluksak Native Community Center"
+ },
+ "Tuntutuliak | Tuntutuliak Community Center": {
+  "address": "99 Church Ln",
+  "city": "Tuntutuliak",
+  "doe_updated": "September 17, 2026 at 3:46 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 12:00pm; 1:00pm - 4:00pm",
+  "name": "Tuntutuliak Community Center"
+ },
+ "Tununak | Tununak Tribal Council Building": {
+  "address": "29 Main Street",
+  "city": "Tununak",
+  "doe_updated": "September 17, 2026 at 3:58 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Tununak Tribal Council Building"
+ },
+ "Twin Hills | Twin Hills Village Council": {
+  "address": "104 Aurora St.",
+  "city": "Twin Hills",
+  "doe_updated": "September 22, 2026 at 3:37 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Twin Hills Village Council"
+ },
+ "Tyonek | Tyonek Communty Hall": {
+  "address": "100 A Street",
+  "city": "Tyonek",
+  "doe_updated": "September 22, 2026 at 3:38 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "Tyonek Communty Hall"
+ },
+ "Unalakleet | Unalakleet City Office": {
+  "address": "28 Ocean Road",
+  "city": "Unalakleet",
+  "doe_updated": "September 22, 2026 at 3:38 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 4:00pm",
+  "name": "Unalakleet City Office"
+ },
+ "Unalaska | Unalaska City Clerk's Office": {
+  "address": "43 Raven Way",
+  "city": "Unalaska",
+  "doe_updated": "September 22, 2026 at 3:38 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 5:00pm",
+  "name": "Unalaska City Clerk's Office"
+ },
+ "Upper Kalskag | Multi Purpose Building": {
+  "address": "LOT 1 BLK 1",
+  "city": "Upper Kalskag",
+  "doe_updated": "September 22, 2026 at 3:38 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 4:00 pm",
+  "name": "Multi Purpose Building"
+ },
+ "Utqiagvik | North Slope Borough Clerk's Office": {
+  "address": "1274 Agvik Street",
+  "city": "Utqiagvik",
+  "doe_updated": "October 15, 2026 at 5:32 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 21 - November 2 8:30am - 12:00pm; 1:00pm - 5:00pm",
+  "name": "North Slope Borough Clerk's Office"
+ },
+ "Valdez | City of Valdez City Office": {
+  "address": "212 Chenega Ave",
+  "city": "Valdez",
+  "doe_updated": "September 18, 2026 at 1:45 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 20- November 2 8:30am - 5:00pm",
+  "name": "City of Valdez City Office"
+ },
+ "Venetie | Venetie Village Council": {
+  "address": "Council Office",
+  "city": "Venetie",
+  "doe_updated": "September 18, 2026 at 1:54 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Tuesday October 20 2:00pm - 4:00pm Wednesday October 21 2:00pm - 4:00pm",
+  "name": "Venetie Village Council"
+ },
+ "Wasilla | Menard Sports Center": {
+  "address": "1001 S Clapp St",
+  "city": "Wasilla",
+  "doe_updated": "September 18, 2026 at 1:46 pm",
+  "early_vote_location": true,
+  "elections": [
+   "26GENR",
+   "26PRIM"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 5:00pm Saturday October 24 and 31 10:00am - 4:00pm Sunday October 25 and November 1 12:00pm - 4:00pm Tuesday, Election Day November 3 7:00am - 8:00pm",
+  "name": "Menard Sports Center"
+ },
+ "Whale Pass | Whale Pass City Clerk's Office": {
+  "address": "The Library",
+  "city": "Whale Pass",
+  "doe_updated": "September 15, 2026 at 11:17 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday, Wednesday, and Thursday Oct. 19, 21, 22, 26, 28, 29 & Nov. 2 9:00am - 1:00pm Election Day November 3 8:00am -8:00pm",
+  "name": "Whale Pass City Clerk's Office"
+ },
+ "White Mountain | White Mountain IRA Office": {
+  "address": "no address",
+  "city": "White Mountain",
+  "doe_updated": "September 22, 2026 at 3:38 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:30am - 3:30pm",
+  "name": "White Mountain IRA Office"
+ },
+ "Whittier | City of Whittier": {
+  "address": "360 Whittier St",
+  "city": "Whittier",
+  "doe_updated": "September 16, 2026 at 2:47 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR",
+   "26PRIM",
+   "26REAA"
+  ],
+  "hours": "Monday - Friday October 20 - November 2 8:00am - 5:00pm",
+  "name": "City of Whittier"
+ },
+ "Wrangell | Wrangell Borough Clerk's Office": {
+  "address": "205 Brueger",
+  "city": "Wrangell",
+  "doe_updated": "September 15, 2026 at 11:15 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 19 - November 2 8:00am - 4:00pm",
+  "name": "Wrangell Borough Clerk's Office"
+ },
+ "Yakutat | Yakutat Borough Clerk's Office": {
+  "address": "309 Max Italio Drive",
+  "city": "Yakutat",
+  "doe_updated": "October 19, 2026 at 1:08 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Friday October 20 - November 2 9:00am - Noon and 1:00pm - 5:00pm",
+  "name": "Yakutat Borough Clerk's Office"
+ }
+}
