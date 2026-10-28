@@ -62,9 +62,10 @@
     var out = { ranges: [], days: {} };
     var found = false;
     // Month D - Month D   |   Month D - D
+    // (DOE also writes "October 28 through Nov 2", so through/thru/to count as a dash)
     // Only ranges that name a month on both ends here; same-month ranges
     // ("October 19-22, 26-29") are read below with the rest of the list.
-    var rangeRe = /\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s*(\d{1,2})(?:st|nd|rd|th)?\s*-\s*(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s*(\d{1,2})(?:st|nd|rd|th)?\b/gi;
+    var rangeRe = /\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s*(\d{1,2})(?:st|nd|rd|th)?\s*(?:-|through|thru|to)\s*(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s*(\d{1,2})(?:st|nd|rd|th)?\b/gi;
     var used = [];
     var m;
     while ((m = rangeRe.exec(t))) {
