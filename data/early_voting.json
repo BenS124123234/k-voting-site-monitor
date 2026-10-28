@@ -552,12 +552,12 @@
  "Ekwok | Ekwok City Hall": {
   "address": "101 Main Street",
   "city": "Ekwok",
-  "doe_updated": "October 26, 2026 at 8:16 am",
+  "doe_updated": "October 28, 2026 at 11:27 am",
   "early_vote_location": false,
   "elections": [
    "26GENR"
   ],
-  "hours": "Temporary Closure",
+  "hours": "Monday - Friday October 28 - November 2 9:00am to 4:00pm",
   "name": "Ekwok City Hall"
  },
  "Elfin Cove | Elfin Cove Gym": {
@@ -1699,16 +1699,16 @@
   "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
   "name": "Savoonga City Office"
  },
- "Scammon Bay | Scammon Bay Tribal Council Building": {
-  "address": "103 Askunuk Road",
+ "Scammon Bay | Scammon Bay Armory Building": {
+  "address": "",
   "city": "Scammon Bay",
-  "doe_updated": "October 26, 2026 at 10:19 am",
+  "doe_updated": "October 28, 2026 at 11:32 am",
   "early_vote_location": false,
   "elections": [
    "26GENR"
   ],
-  "hours": "Temporary Closure",
-  "name": "Scammon Bay Tribal Council Building"
+  "hours": "Monday through Friday October 28 through Nov 2 11:30 am - 2:30 pm",
+  "name": "Scammon Bay Armory Building"
  },
  "Selawik | Selawik City Office": {
   "address": "99 North Tundra Street",
