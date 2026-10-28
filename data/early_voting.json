@@ -1,16 +1,16 @@
 {
- "Adak | Adak City Office": {
-  "address": "100 Mechanical Street",
+ "Adak | Adak Community Center Library": {
+  "address": "",
   "city": "Adak",
-  "doe_updated": "September 23, 2026 at 3:55 pm",
+  "doe_updated": "October 28, 2026 at 12:26 pm",
   "early_vote_location": false,
   "elections": [
    "26GENR",
    "26PRIM",
    "26REAA"
   ],
-  "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm",
-  "name": "Adak City Office"
+  "hours": "Monday & Friday October 19 - November 2 11:00am - 1:30pm Tuesday & Thursday October 19 - November 2 5:00pm - 7:30pm",
+  "name": "Adak Community Center Library"
  },
  "Akiachak | Akiachak IRA Office": {
   "address": "100 Main Street",
@@ -28,7 +28,7 @@
  "Akiak | Akiak City Hall": {
   "address": "250 Doops Street",
   "city": "Akiak",
-  "doe_updated": "October 27, 2026 at 4:32 pm",
+  "doe_updated": "October 28, 2026 at 12:26 pm",
   "early_vote_location": false,
   "elections": [
    "26GENR"
