@@ -28,7 +28,7 @@
  "Akiak | Akiak City Hall": {
   "address": "250 Doops Street",
   "city": "Akiak",
-  "doe_updated": "October 28, 2026 at 12:26 pm",
+  "doe_updated": "October 29, 2026 at 1:39 pm",
   "early_vote_location": false,
   "elections": [
    "26GENR"
@@ -312,18 +312,18 @@
   "hours": "Monday - Friday October 19 - November 2 9:00am - 4:00pm",
   "name": "Cherfornak Tribal Council Building"
  },
- "Chevak | Native Village of Chevak Building": {
-  "address": "140 Aurora Street",
+ "Chevak | City of Chevak": {
+  "address": "",
   "city": "Chevak",
-  "doe_updated": "September 17, 2026 at 3:14 pm",
+  "doe_updated": "October 29, 2026 at 1:39 pm",
   "early_vote_location": false,
   "elections": [
    "26GENR",
    "26PRIM",
    "26REAA"
   ],
-  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
-  "name": "Native Village of Chevak Building"
+  "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm Saturday October 31 1:00pm - 5:00 pm",
+  "name": "City of Chevak"
  },
  "Chignik Lagoon | Chignik Lagoon Council Building": {
   "address": "427 Airport Road",
@@ -1992,23 +1992,23 @@
  "Tuluksak | Tuluksak Native Community Center": {
   "address": "23 Tuluksak Heights",
   "city": "Tuluksak",
-  "doe_updated": "September 17, 2026 at 3:54 pm",
+  "doe_updated": "October 29, 2026 at 1:41 pm",
   "early_vote_location": false,
   "elections": [
    "26GENR"
   ],
-  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "hours": "temporarily closed",
   "name": "Tuluksak Native Community Center"
  },
  "Tuntutuliak | Tuntutuliak Community Center": {
   "address": "99 Church Ln",
   "city": "Tuntutuliak",
-  "doe_updated": "September 17, 2026 at 3:46 pm",
+  "doe_updated": "October 29, 2026 at 1:41 pm",
   "early_vote_location": false,
   "elections": [
    "26GENR"
   ],
-  "hours": "Monday - Friday October 19 - November 2 9:00am - 12:00pm; 1:00pm - 4:00pm",
+  "hours": "temporarily closed",
   "name": "Tuntutuliak Community Center"
  },
  "Tununak | Tununak Tribal Council Building": {
