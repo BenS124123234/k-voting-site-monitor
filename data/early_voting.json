@@ -617,16 +617,16 @@
   "hours": "Tuesday, Election Day November 3rd 7:00am - 8:00pm",
   "name": "UAF Wood Center"
  },
- "False Pass | False Pass Tribal Office": {
+ "False Pass | False Pass City Office": {
   "address": "180 Unimak Drive",
   "city": "False Pass",
-  "doe_updated": "September 22, 2026 at 2:05 pm",
+  "doe_updated": "October 29, 2026 at 2:08 pm",
   "early_vote_location": false,
   "elections": [
    "26GENR"
   ],
   "hours": "Monday - Friday October 19 - November 3 10:00am - 12:00pm; 1:00pm - 4:00pm",
-  "name": "False Pass Tribal Office"
+  "name": "False Pass City Office"
  },
  "Galena | City of Galena City Office": {
   "address": "Antoski Avenue",
@@ -2014,12 +2014,12 @@
  "Tununak | Tununak Tribal Council Building": {
   "address": "29 Main Street",
   "city": "Tununak",
-  "doe_updated": "September 17, 2026 at 3:58 pm",
+  "doe_updated": "October 29, 2026 at 1:43 pm",
   "early_vote_location": false,
   "elections": [
    "26GENR"
   ],
-  "hours": "Monday - Friday October 19 - November 2 10:00am - 12:00pm; 1:00pm - 5:00pm",
+  "hours": "temporarily closed",
   "name": "Tununak Tribal Council Building"
  },
  "Twin Hills | Twin Hills Village Council": {
