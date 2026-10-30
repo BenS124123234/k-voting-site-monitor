@@ -1,13 +1,13 @@
 {
  "last_change_count": 0,
- "last_checked": "2026-10-30T13:59:35+00:00",
+ "last_checked": "2026-10-30T14:56:27+00:00",
  "ok": true,
  "sources": {
   "early_voting": {
    "error": null,
    "first_logged": "2026-10-27T18:29:06+00:00",
    "last_failure": "2026-10-27T20:38:12+00:00",
-   "last_success": "2026-10-30T13:59:35+00:00",
+   "last_success": "2026-10-30T14:56:27+00:00",
    "ok": true,
    "sha256": "41c6f6972c4d25bd9eb75b51cd6fb1182ab5af2386f81c7d5e6b82c2798478de",
    "site_count": 193,
@@ -16,7 +16,7 @@
   "election_day": {
    "error": null,
    "first_logged": "2026-10-27T18:29:06+00:00",
-   "last_success": "2026-10-30T13:59:35+00:00",
+   "last_success": "2026-10-30T14:56:27+00:00",
    "ok": true,
    "sha256": "9d9eb5bdeeb6542c06d0e4be64bff61fef4efa230185c8e87950e3cf80d6f4f4",
    "site_count": 402,
