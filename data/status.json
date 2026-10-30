@@ -1,22 +1,22 @@
 {
  "last_change_count": 0,
- "last_checked": "2026-10-30T22:40:17+00:00",
+ "last_checked": "2026-10-30T23:37:09+00:00",
  "ok": true,
  "sources": {
   "early_voting": {
    "error": null,
    "first_logged": "2026-10-27T18:29:06+00:00",
    "last_failure": "2026-10-27T20:38:12+00:00",
-   "last_success": "2026-10-30T22:40:17+00:00",
+   "last_success": "2026-10-30T23:37:09+00:00",
    "ok": true,
-   "sha256": "ea5a2cc0f89709188c35f6ffa0af991a5152584bd68bf087a0103b06c728f49f",
+   "sha256": "ab4356c49e576c91f07328596042fb60c2c746ea5a2c5124e48e2835eca5d1ce",
    "site_count": 194,
    "url": "https://www.elections.alaska.gov/avo/"
   },
   "election_day": {
    "error": null,
    "first_logged": "2026-10-27T18:29:06+00:00",
-   "last_success": "2026-10-30T22:40:17+00:00",
+   "last_success": "2026-10-30T23:37:09+00:00",
    "ok": true,
    "sha256": "9d9eb5bdeeb6542c06d0e4be64bff61fef4efa230185c8e87950e3cf80d6f4f4",
    "site_count": 402,
