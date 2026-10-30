@@ -64,7 +64,7 @@
   "precinct": "01-675 Coffman Cove"
  },
  "01-680 Metlakatla": {
-  "address": "900 Milton St",
+  "address": "317 3rd Ave",
   "city": "Metlakatla",
   "lat": 55.12497,
   "lon": -131.57169,
@@ -104,11 +104,11 @@
   "precinct": "02-720 Hoonah"
  },
  "02-725 Hydaburg": {
-  "address": "",
+  "address": "101 8th St Extension",
   "city": "Hydaburg",
   "lat": 55.20568,
   "lon": -132.82313,
-  "name": "Recreation Building (Blue Building)",
+  "name": "Hydaburg City Hall",
   "precinct": "02-725 Hydaburg"
  },
  "02-730 Kake": {
@@ -328,7 +328,7 @@
   "precinct": "04-125 Lemon Creek"
  },
  "04-130 Glacier Valley Area": {
-  "address": "9107 Mendenhall Mall Rd Ste 311",
+  "address": "9107 Mendenhall Mall Rd Ste 325",
   "city": "Juneau",
   "lat": 58.37144,
   "lon": -134.58971,
@@ -1036,7 +1036,7 @@
   "city": "Anchorage",
   "lat": 61.18494,
   "lon": -149.9524,
-  "name": "Alaska Native Cultural Center",
+  "name": "Alaska Native Charter School",
   "precinct": "16-460 West Anchorage No. 3"
  },
  "16-465 West Anchorage No. 4": {
@@ -1384,11 +1384,11 @@
   "precinct": "24-855 Chugiak"
  },
  "24-860 Eagle River No. 3": {
-  "address": "12001 Business Blvd #123",
+  "address": "12001 Business Blvd #170",
   "city": "Eagle River",
   "lat": 61.32959,
   "lon": -149.57139,
-  "name": "Eagle River Parks & Recreation",
+  "name": "Eagle River Town Center",
   "precinct": "24-860 Eagle River No. 3"
  },
  "24-865 Eklutna": {
@@ -1848,7 +1848,7 @@
   "precinct": "32-365 Fairbanks No. 5"
  },
  "32-375 Fort Wainwright": {
-  "address": "1044 Marks Rd",
+  "address": "1044 Apple St",
   "city": "Fort Wainwright",
   "lat": 64.84149,
   "lon": -147.61138,
@@ -2060,7 +2060,7 @@
   "city": "Allakaket",
   "lat": 66.56403,
   "lon": -152.65249,
-  "name": "Allakaket City Office",
+  "name": "Allakaket Tribal Office",
   "precinct": "36-010 Allakaket"
  },
  "36-014 Anvik": {
@@ -2076,7 +2076,7 @@
   "city": "Arctic Village",
   "lat": 68.12568,
   "lon": -145.54497,
-  "name": "Arctic Village Community Hall",
+  "name": "Arctic Village Tribal Council",
   "precinct": "36-018 Arctic Village"
  },
  "36-022 Beaver": {
@@ -2400,7 +2400,7 @@
   "precinct": "37-707 Aniak"
  },
  "37-708 Chignik": {
-  "address": "Old Cemetary Rd",
+  "address": "101 Cemetary Rd",
   "city": "Chignik",
   "lat": 56.29345,
   "lon": -158.40537,
@@ -2716,7 +2716,7 @@
   "city": "Kipnuk",
   "lat": 59.93381,
   "lon": -164.0405,
-  "name": "Kanganak Community Hall",
+  "name": "Kanganak Community Hall (Temporarily Closed)",
   "precinct": "38-824 Kipnuk"
  },
  "38-826 Kongiganak": {
@@ -2740,7 +2740,7 @@
   "city": "Kwigillingok",
   "lat": 59.86483,
   "lon": -163.15894,
-  "name": "Kwigillingok Community Hall",
+  "name": "Kwigillingok Community Hall (Temporarily Closed)",
   "precinct": "38-830 Kwigillingok"
  },
  "38-836 Mekoryuk": {
@@ -2948,7 +2948,7 @@
   "city": "Nunam Iqua",
   "lat": 62.53141,
   "lon": -164.85017,
-  "name": "Nunam Iqua Tribal Hall",
+  "name": "Nunam Iqua Community Hall",
   "precinct": "39-928 Nunam Iqua"
  },
  "39-930 Pilot Station": {
@@ -2992,11 +2992,11 @@
   "precinct": "39-936 Shaktoolik"
  },
  "39-938 Shishmaref": {
-  "address": "",
+  "address": "110 Lagoon View",
   "city": "Shishmaref",
   "lat": 66.25617,
   "lon": -166.07265,
-  "name": "Shishmaref City Office Conference Room",
+  "name": "Shishmaref City Hall",
   "precinct": "39-938 Shishmaref"
  },
  "39-940 St. Mary's": {
@@ -3016,7 +3016,7 @@
   "precinct": "39-942 St. Michael"
  },
  "39-944 Stebbins": {
-  "address": "36 Able St",
+  "address": "100 Main St",
   "city": "Stebbins",
   "lat": 63.52222,
   "lon": -162.28806,
