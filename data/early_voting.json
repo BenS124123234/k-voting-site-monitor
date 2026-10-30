@@ -1137,6 +1137,17 @@
   "hours": "Monday - Friday October 19 - November 2 9:00am - 5:00pm",
   "name": "Kwethluk City Office"
  },
+ "Kwigillingok | Kwigillingok School": {
+  "address": "325 Main St",
+  "city": "Kwigillingok",
+  "doe_updated": "October 30, 2026 at 11:51 am",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday - Tuesday November 2 - November 3 10:00am - 2:00pm",
+  "name": "Kwigillingok School"
+ },
  "Larsen Bay | Larsen Bay City Clerk's Office": {
   "address": "",
   "city": "Larsen Bay",
