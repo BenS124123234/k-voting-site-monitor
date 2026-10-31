@@ -1159,6 +1159,17 @@
   "hours": "Monday - Friday October 19 - November 2 1:00PM-4:00PM",
   "name": "Larsen Bay City Clerk's Office"
  },
+ "Manokotak | City of Manokotak": {
+  "address": "134 3rd & Salmon St",
+  "city": "Manokotak",
+  "doe_updated": "October 31, 2026 at 2:57 pm",
+  "early_vote_location": false,
+  "elections": [
+   "26GENR"
+  ],
+  "hours": "Monday November 2 9:00am - 4:00pm",
+  "name": "City of Manokotak"
+ },
  "Marshall | City of Marshall": {
   "address": "1104 Yukon Ave",
   "city": "Marshall",
