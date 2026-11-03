@@ -52,3 +52,7 @@
 {"after": "1837 Tikigaq Ave", "before": "530 Qalgi St", "change": "modified", "checked_at": "2026-11-03T02:51:32+00:00", "field": "address", "site": "40-032 Point Hope", "source": "election_day"}
 {"after": 68.34987, "before": 68.35049, "change": "modified", "checked_at": "2026-11-03T02:51:32+00:00", "field": "lat", "site": "40-032 Point Hope", "source": "election_day"}
 {"after": -166.73746, "before": -166.74366, "change": "modified", "checked_at": "2026-11-03T02:51:32+00:00", "field": "lon", "site": "40-032 Point Hope", "source": "election_day"}
+{"after": "City of Point Hope", "before": "Tikigaq High School Gymnasium", "change": "modified", "checked_at": "2026-11-03T04:54:36+00:00", "field": "name", "site": "40-032 Point Hope", "source": "election_day"}
+{"after": "", "before": "1837 Tikigaq Ave", "change": "modified", "checked_at": "2026-11-03T04:54:36+00:00", "field": "address", "site": "40-032 Point Hope", "source": "election_day"}
+{"after": 68.34949, "before": 68.34987, "change": "modified", "checked_at": "2026-11-03T04:54:36+00:00", "field": "lat", "site": "40-032 Point Hope", "source": "election_day"}
+{"after": -166.73872, "before": -166.73746, "change": "modified", "checked_at": "2026-11-03T04:54:36+00:00", "field": "lon", "site": "40-032 Point Hope", "source": "election_day"}

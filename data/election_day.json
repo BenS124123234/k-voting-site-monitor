@@ -3176,11 +3176,11 @@
   "precinct": "40-030 Nuiqsut"
  },
  "40-032 Point Hope": {
-  "address": "1837 Tikigaq Ave",
+  "address": "",
   "city": "Point Hope",
-  "lat": 68.34987,
-  "lon": -166.73746,
-  "name": "Tikigaq High School Gymnasium",
+  "lat": 68.34949,
+  "lon": -166.73872,
+  "name": "City of Point Hope",
   "precinct": "40-032 Point Hope"
  },
  "40-034 Point Lay": {
