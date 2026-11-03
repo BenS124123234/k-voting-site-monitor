@@ -56,3 +56,7 @@
 {"after": "", "before": "1837 Tikigaq Ave", "change": "modified", "checked_at": "2026-11-03T04:54:36+00:00", "field": "address", "site": "40-032 Point Hope", "source": "election_day"}
 {"after": 68.34949, "before": 68.34987, "change": "modified", "checked_at": "2026-11-03T04:54:36+00:00", "field": "lat", "site": "40-032 Point Hope", "source": "election_day"}
 {"after": -166.73872, "before": -166.73746, "change": "modified", "checked_at": "2026-11-03T04:54:36+00:00", "field": "lon", "site": "40-032 Point Hope", "source": "election_day"}
+{"after": "King City Hall", "before": "King Cove Gymnasium", "change": "modified", "checked_at": "2026-11-03T22:43:58+00:00", "field": "name", "site": "37-720 King Cove", "source": "election_day"}
+{"after": "37 Main St", "before": "", "change": "modified", "checked_at": "2026-11-03T22:43:58+00:00", "field": "address", "site": "37-720 King Cove", "source": "election_day"}
+{"after": 55.05951, "before": 55.05959, "change": "modified", "checked_at": "2026-11-03T22:43:58+00:00", "field": "lat", "site": "37-720 King Cove", "source": "election_day"}
+{"after": -162.31134, "before": -162.31422, "change": "modified", "checked_at": "2026-11-03T22:43:58+00:00", "field": "lon", "site": "37-720 King Cove", "source": "election_day"}

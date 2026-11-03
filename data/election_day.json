@@ -2472,11 +2472,11 @@
   "precinct": "37-719 Goodnews Bay"
  },
  "37-720 King Cove": {
-  "address": "",
+  "address": "37 Main St",
   "city": "King Cove",
-  "lat": 55.05959,
-  "lon": -162.31422,
-  "name": "King Cove Gymnasium",
+  "lat": 55.05951,
+  "lon": -162.31134,
+  "name": "King City Hall",
   "precinct": "37-720 King Cove"
  },
  "37-722 King Salmon": {
